@@ -46,8 +46,8 @@ else {
 }
 
 const verhouding = {
-    'M': 'mannen',
-    'F': 'vrouwen'
+    'M': experiment_strings.label_proportion_men,
+    'F': experiment_strings.label_proportion_women
 }
 
 const symbolen = {

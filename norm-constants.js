@@ -13,7 +13,9 @@ const all_translations = {
         "option_gender_male": "Man",
         "option_gender_female": "Woman",
         "option_gender_nb": "Nonbinary",
-        "option_gender_other": "Other"
+        "option_gender_other": "Other",
+        "label_proportion_men": "men",
+        "label_proportion_women": "women"
     },
     "Dutch": {
         "option_yes": "Ja",
@@ -27,7 +29,9 @@ const all_translations = {
         "option_gender_male": "Man",
         "option_gender_female": "Vrouw",
         "option_gender_nb": "Non-binair",
-        "option_gender_other": "Anders"
+        "option_gender_other": "Anders",
+        "label_proportion_men": "mannen",
+        "label_proportion_women": "vrouwen"
     },
     "French": {
         "option_yes": "Oui",
@@ -41,7 +45,9 @@ const all_translations = {
         "option_gender_male": "Homme",
         "option_gender_female": "Femme",
         "option_gender_nb": "Non-binaire",
-        "option_gender_other": "Autre"
+        "option_gender_other": "Autre",
+        "label_proportion_men": "hommes",
+        "label_proportion_women": "femmes"
     }
 };
 
