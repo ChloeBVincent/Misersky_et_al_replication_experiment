@@ -1,3 +1,15 @@
+var experiment_strings = all_translations[language];
+
+var options_age = [
+    '18–24',
+    '25–34',
+    '35–44',
+    '45–64',
+    '65+',
+    experiment_strings.option_pnts
+];
+
+
 function saveData(name, data){
     var xhr = new XMLHttpRequest();
     xhr.open('POST', 'record_result.php'); //
@@ -8,7 +20,9 @@ function saveData(name, data){
 const jsPsych = initJsPsych({
     experiment_width: 750,
     on_finish: function () {
-        document.body.innerHTML = '<p style="text-align: center;">Jouw gegevens zijn bewaard. Hartelijk bedankt voor je deelname.</p>';
+        document.body.innerHTML = '<p style="text-align: center;">'+
+		experiment_strings.message_end +
+		'</p>';
 
         saveData(fileName, jsPsych.data.get().csv());
         jsPsych.endExperiment();
@@ -31,7 +45,7 @@ jsPsych.data.addProperties({
     orderMF: order
 });
 
-var stimuli_select = jsPsych.randomization.sampleWithoutReplacement(stimuli, 25);
+var stimuli_select = jsPsych.randomization.sampleWithoutReplacement(stimuli, 2);
 
 
 if (order===1) {
@@ -56,7 +70,8 @@ const symbolen = {
 const toestemming = {
     type: jsPsychHtmlButtonResponse,
     stimulus: consigne_consent,
-    choices: ['Ik ga akkoord']
+	//choices: ['Ik ga akkoord']
+	choices: [experiment_strings.button_agree]
 };
 
 const instructions = {
@@ -71,7 +86,7 @@ const instructions = {
             'alleen om jouw inschatting van de huidige stand van zaken in Nederland; je hoeft het niet zeker te weten.</p>' +
             '<p>Als je klaar bent om te beginnen, klik dan op ‘Beginnen’.</p>';
     },
-    choices: ['Beginnen']
+    choices: [experiment_strings.button_start]
 };
 
 const procedure = {
@@ -112,7 +127,7 @@ const procedure = {
                     required: true,
                 }
             ],
-            button_label: "Verder",
+            button_label: experiment_strings.button_next,
             on_finish: function (data) {
                 data.stereotype = jsPsych.timelineVariable("stereotype", true);
                 data.noun = jsPsych.timelineVariable("noun", true);
@@ -130,12 +145,12 @@ var debrief = {
         {
             type: jsPsychHtmlButtonResponse,
             stimulus: consigne_debrief,
-            choices: ['Verder'],
+            choices: [experiment_strings.button_next],
         },
         {
             type: jsPsychSurveyMultiChoice,
             questions: [
-                {prompt: 'Wat is jouw leeftijd?', options: options_age, required: true},
+                {prompt: experiment_strings.question_age, options: options_age, required: true},
                 {prompt: 'In welke provincie woon je?', options: options_pronvinces, required: true},
                 {prompt: 'Wat is jouw genderidentiteit?', options: options_genre, required: true},
                 {prompt: 'Wat is je hoogst genoten opleiding?', options: options_education, required: true},
@@ -144,7 +159,7 @@ var debrief = {
                 //{prompt: 'Hoe belangrijk vind je het om inclusief taalgebruik aan te moedigen?', options: options_langincl, required: true},
                 //{prompt: 'Probeer jij jouw taalgebruik aan te passen om meer inclusief te zijn?', options: options_proprelang, required: true}
             ],
-            button_label: 'Verder',
+            button_label: experiment_strings.button_next,
             data: {
                 participant: participant_id,
                 trialType: 'q-questionnaire'

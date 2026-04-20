@@ -1,3 +1,37 @@
+const language = "French"; //TODO: change depending on language
+
+const all_translations = {
+    "English": {
+        "option_yes": "Yes",
+        "option_no": "No",
+        "option_pnts": "Prefer not to say",
+        "button_agree": "I agree",
+        "message_end": "Thanks bye",
+        "question_age": "How old are you?",
+        "button_start": "Start",
+        "button_next": "Next"
+    },
+    "Dutch": {
+        "option_yes": "Ja",
+        "option_no": "Nee",
+        "option_pnts": "Zeg ik liever niet",
+        "button_agree": "Ik ga akkoord",
+        "message_end": "Jouw gegevens zijn bewaard. Hartelijk bedankt voor je deelname.",
+        "question_age": "Wat is jouw leeftijd?",
+        "button_start": "Beginnen",
+        "button_next": "Verder"
+    },
+    "French": {
+        "option_yes": "Oui",
+        "option_no": "Non",
+        "option_pnts": "Ne se prononce pas",
+        "button_agree": "Je suis d'accord",
+        "message_end": "Merci pour les données",
+        "question_age": "Quel âge avez-vous ?",
+        "button_start": "Commencer",
+        "button_next": "Suivant"
+    }
+};
 
 
 const consigne_consent =
@@ -49,15 +83,6 @@ const consigne_debrief =
 const options_YN = [
     'Ja',
     'Nee',
-    'Zeg ik liever niet'
-];
-
-const options_age = [
-    '18–24',
-    '25–34',
-    '35–44',
-    '45–64',
-    '65+',
     'Zeg ik liever niet'
 ];
 

@@ -1,0 +1,9 @@
+﻿test;variable;English;French;Dutch
+1;option_yes;Yes;Oui;Ja
+2;option_no;No;Non;Nee
+3;option_pnts;Prefer not to say;Ne se prononce pas;Zeg ik liever niet
+;button_agree;I agree;Je suis d'accord;Ik ga akkoord
+;message_end;Thanks bye;Merci pour les données;Jouw gegevens zijn bewaard. Hartelijk bedankt voor je deelname.
+;question_age;How old are you?;Quel âge avez-vous ?;Wat is jouw leeftijd?
+;button_start;Start;Commencer;Beginnen
+;button_next;Next;Suivant;Verder
