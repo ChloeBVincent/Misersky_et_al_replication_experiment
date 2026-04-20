@@ -15,7 +15,15 @@ const all_translations = {
         "option_gender_nb": "Nonbinary",
         "option_gender_other": "Other",
         "label_proportion_men": "men",
-        "label_proportion_women": "women"
+        "label_proportion_women": "women",
+        "option_education_1": "No education",
+        "option_education_2": "Middle school",
+        "option_education_3": "Higher education",
+        "option_education_4": "Other",
+        "option_education_5": "",
+        "option_education_6": "",
+        "option_education_7": "",
+        "option_education_8": ""
     },
     "Dutch": {
         "option_yes": "Ja",
@@ -31,7 +39,15 @@ const all_translations = {
         "option_gender_nb": "Non-binair",
         "option_gender_other": "Anders",
         "label_proportion_men": "mannen",
-        "label_proportion_women": "vrouwen"
+        "label_proportion_women": "vrouwen",
+        "option_education_1": "Geen opleiding",
+        "option_education_2": "Middelbare school (VMBO, HAVO, VWO, etc.)",
+        "option_education_3": "Middelbaar beroepsonderwijs (MBO)",
+        "option_education_4": "Hoger beroepsonderwijs (HBO)",
+        "option_education_5": "Wetenschappelijk onderwijs (Universiteit)",
+        "option_education_6": "",
+        "option_education_7": "",
+        "option_education_8": ""
     },
     "French": {
         "option_yes": "Oui",
@@ -47,7 +63,15 @@ const all_translations = {
         "option_gender_nb": "Non-binaire",
         "option_gender_other": "Autre",
         "label_proportion_men": "hommes",
-        "label_proportion_women": "femmes"
+        "label_proportion_women": "femmes",
+        "option_education_1": "École obligatoire",
+        "option_education_2": "Certificat fédéral de capacité CFC",
+        "option_education_3": "École supérieure ES",
+        "option_education_4": "Gymnase / collège / lycée",
+        "option_education_5": "Bachelor",
+        "option_education_6": "Master",
+        "option_education_7": "Doctorat",
+        "option_education_8": "Autre"
     }
 };
 
@@ -98,15 +122,6 @@ const consigne_debrief =
     '<p>Je bent nu klaar met het eerste deel van de studie. Nu stellen we je enkele vragen over jezelf en je ervaringen. ' +
     'Als je een vraag niet wilt beantwoorden, kun je ‘Zeg ik liever niet’ selecteren.</p>';
 
-
-const options_education = [
-    'Geen opleiding',
-    'Middelbare school (VMBO, HAVO, VWO, etc.)',
-    'Middelbaar beroepsonderwijs (MBO)',
-    'Hoger beroepsonderwijs (HBO)',
-    'Wetenschappelijk onderwijs (Universiteit)',
-    'Zeg ik liever niet'
-];
 
 const options_langues = [
     'Alleen Nederlands',

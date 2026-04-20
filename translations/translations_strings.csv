@@ -13,3 +13,11 @@
 ;option_gender_other;Other;Autre;Anders
 ;label_proportion_men;men;hommes;mannen
 ;label_proportion_women;women;femmes;vrouwen
+;option_education_1;No education;École obligatoire;Geen opleiding
+;option_education_2;Middle school;Certificat fédéral de capacité CFC;Middelbare school (VMBO, HAVO, VWO, etc.)
+;option_education_3;Higher education;École supérieure ES;Middelbaar beroepsonderwijs (MBO)
+;option_education_4;Other;Gymnase / collège / lycée;Hoger beroepsonderwijs (HBO)
+;option_education_5;;Bachelor;Wetenschappelijk onderwijs (Universiteit)
+;option_education_6;;Master;
+;option_education_7;;Doctorat;
+;option_education_8;;Autre;
