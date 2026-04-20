@@ -9,6 +9,13 @@ var options_age = [
     experiment_strings.option_pnts
 ];
 
+var options_genre = [
+    experiment_strings.option_gender_male,
+    experiment_strings.option_gender_female,
+    experiment_strings.option_gender_nb,
+    experiment_strings.option_gender_other,
+    experiment_strings.option_pnts
+]
 
 function saveData(name, data){
     var xhr = new XMLHttpRequest();

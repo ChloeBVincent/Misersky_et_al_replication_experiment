@@ -9,7 +9,11 @@ const all_translations = {
         "message_end": "Thanks bye",
         "question_age": "How old are you?",
         "button_start": "Start",
-        "button_next": "Next"
+        "button_next": "Next",
+        "option_gender_male": "Man",
+        "option_gender_female": "Woman",
+        "option_gender_nb": "Nonbinary",
+        "option_gender_other": "Other"
     },
     "Dutch": {
         "option_yes": "Ja",
@@ -19,7 +23,11 @@ const all_translations = {
         "message_end": "Jouw gegevens zijn bewaard. Hartelijk bedankt voor je deelname.",
         "question_age": "Wat is jouw leeftijd?",
         "button_start": "Beginnen",
-        "button_next": "Verder"
+        "button_next": "Verder",
+        "option_gender_male": "Man",
+        "option_gender_female": "Vrouw",
+        "option_gender_nb": "Non-binair",
+        "option_gender_other": "Anders"
     },
     "French": {
         "option_yes": "Oui",
@@ -29,7 +37,11 @@ const all_translations = {
         "message_end": "Merci pour les données",
         "question_age": "Quel âge avez-vous ?",
         "button_start": "Commencer",
-        "button_next": "Suivant"
+        "button_next": "Suivant",
+        "option_gender_male": "Homme",
+        "option_gender_female": "Femme",
+        "option_gender_nb": "Non-binaire",
+        "option_gender_other": "Autre"
     }
 };
 
@@ -80,11 +92,6 @@ const consigne_debrief =
     '<p>Je bent nu klaar met het eerste deel van de studie. Nu stellen we je enkele vragen over jezelf en je ervaringen. ' +
     'Als je een vraag niet wilt beantwoorden, kun je ‘Zeg ik liever niet’ selecteren.</p>';
 
-const options_YN = [
-    'Ja',
-    'Nee',
-    'Zeg ik liever niet'
-];
 
 const options_education = [
     'Geen opleiding',
@@ -92,14 +99,6 @@ const options_education = [
     'Middelbaar beroepsonderwijs (MBO)',
     'Hoger beroepsonderwijs (HBO)',
     'Wetenschappelijk onderwijs (Universiteit)',
-    'Zeg ik liever niet'
-];
-
-const options_genre = [
-    'Man',
-    'Vrouw',
-    'Non-binair',
-    'Anders',
     'Zeg ik liever niet'
 ];
 
