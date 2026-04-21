@@ -21,3 +21,26 @@
 ;option_education_6;;Master;
 ;option_education_7;;Doctorat;
 ;option_education_8;;Autre;
+;message_transition;You have now completed the first part of the study. We will now ask you a few questions about yourself and your experiences. If you do not wish to answer a question, you can select ‘Prefer not to say’.;Vous avez maintenant terminé la première partie de l'étude. Nous allons maintenant vous poser quelques questions sur vous et votre parcours. Si vous ne souhaitez pas répondre à une question, vous pouvez sélectionner « Ne se prononce pas ».;Je bent nu klaar met het eerste deel van de studie. Nu stellen we je enkele vragen over jezelf en je ervaringen. Als je een vraag niet wilt beantwoorden, kun je ‘Zeg ik liever niet’ selecteren.
+;option_language_1;Only English;Français uniquement;Alleen Nederlands
+;option_language_2;English and another language;Français et une autre langue;Nederlands en dialect
+;option_language_3;Only another language than English;Uniquement une autre langue que le français;Alleen dialect
+;option_language_4;;;Nederlands en een andere taal dan het Nederlands
+;option_language_5;;;Alleen een andere taal dan het Nederlands
+;option_region_1;England;Fribourg;Groningen
+;option_region_2;Wales;Genève;Friesland
+;option_region_3;Scotland;Jura;Drenthe
+;option_region_4;Ireland;Neuchâtel;Overijssel
+;option_region_5;Somewhere else;Valais;Flevoland
+;option_region_6;;Vaud;Gelderland
+;option_region_7;;Autre;Utrecht
+;option_region_8;;;Noord-Holland
+;option_region_9;;;Zuid-Holland
+;option_region_10;;;Zeeland
+;option_region_11;;;Noord-Brabant
+;option_region_12;;;Limburg
+;option_region_13;;;Ergens anders
+;question_region;Where do you live? ;Dans quel canton vivez-vous ?;In welke provincie woon je?
+;question_gender;What is your gender? ;Quel est votre genre ?;Wat is jouw genderidentiteit?
+;question_education;What is your highest degree?;Quel est votre plus haut diplôme ?;Wat is je hoogst genoten opleiding
+;question_language;What language(s) were spoken at home in your youth?;Quelle(s) langue(s) était parlée(s) à la maison dans votre jeunesse ? ;Welke talen werden thuis gesproken tijdens je jeugd?

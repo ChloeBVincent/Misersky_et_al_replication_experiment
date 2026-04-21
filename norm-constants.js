@@ -23,7 +23,30 @@ const all_translations = {
         "option_education_5": "",
         "option_education_6": "",
         "option_education_7": "",
-        "option_education_8": ""
+        "option_education_8": "",
+        "message_transition": "You have now completed the first part of the study. We will now ask you a few questions about yourself and your experiences. If you do not wish to answer a question, you can select ‘Prefer not to say’.",
+        "option_language_1": "Only English",
+        "option_language_2": "English and another language",
+        "option_language_3": "Only another language than English",
+        "option_language_4": "",
+        "option_language_5": "",
+        "option_region_1": "England",
+        "option_region_2": "Wales",
+        "option_region_3": "Scotland",
+        "option_region_4": "Ireland",
+        "option_region_5": "Somewhere else",
+        "option_region_6": "",
+        "option_region_7": "",
+        "option_region_8": "",
+        "option_region_9": "",
+        "option_region_10": "",
+        "option_region_11": "",
+        "option_region_12": "",
+        "option_region_13": "",
+        "question_region": "Where do you live? ",
+        "question_gender": "What is your gender? ",
+        "question_education": "What is your highest degree?",
+        "question_language": "What language(s) were spoken at home in your youth?"
     },
     "Dutch": {
         "option_yes": "Ja",
@@ -47,7 +70,30 @@ const all_translations = {
         "option_education_5": "Wetenschappelijk onderwijs (Universiteit)",
         "option_education_6": "",
         "option_education_7": "",
-        "option_education_8": ""
+        "option_education_8": "",
+        "message_transition": "Je bent nu klaar met het eerste deel van de studie. Nu stellen we je enkele vragen over jezelf en je ervaringen. Als je een vraag niet wilt beantwoorden, kun je ‘Zeg ik liever niet’ selecteren.",
+        "option_language_1": "Alleen Nederlands",
+        "option_language_2": "Nederlands en dialect",
+        "option_language_3": "Alleen dialect",
+        "option_language_4": "Nederlands en een andere taal dan het Nederlands",
+        "option_language_5": "Alleen een andere taal dan het Nederlands",
+        "option_region_1": "Groningen",
+        "option_region_2": "Friesland",
+        "option_region_3": "Drenthe",
+        "option_region_4": "Overijssel",
+        "option_region_5": "Flevoland",
+        "option_region_6": "Gelderland",
+        "option_region_7": "Utrecht",
+        "option_region_8": "Noord-Holland",
+        "option_region_9": "Zuid-Holland",
+        "option_region_10": "Zeeland",
+        "option_region_11": "Noord-Brabant",
+        "option_region_12": "Limburg",
+        "option_region_13": "Ergens anders",
+        "question_region": "In welke provincie woon je?",
+        "question_gender": "Wat is jouw genderidentiteit?",
+        "question_education": "Wat is je hoogst genoten opleiding",
+        "question_language": "Welke talen werden thuis gesproken tijdens je jeugd?"
     },
     "French": {
         "option_yes": "Oui",
@@ -71,7 +117,30 @@ const all_translations = {
         "option_education_5": "Bachelor",
         "option_education_6": "Master",
         "option_education_7": "Doctorat",
-        "option_education_8": "Autre"
+        "option_education_8": "Autre",
+        "message_transition": "Vous avez maintenant terminé la première partie de l'étude. Nous allons maintenant vous poser quelques questions sur vous et votre parcours. Si vous ne souhaitez pas répondre à une question, vous pouvez sélectionner « Ne se prononce pas ».",
+        "option_language_1": "Français uniquement",
+        "option_language_2": "Français et une autre langue",
+        "option_language_3": "Uniquement une autre langue que le français",
+        "option_language_4": "",
+        "option_language_5": "",
+        "option_region_1": "Fribourg",
+        "option_region_2": "Genève",
+        "option_region_3": "Jura",
+        "option_region_4": "Neuchâtel",
+        "option_region_5": "Valais",
+        "option_region_6": "Vaud",
+        "option_region_7": "Autre",
+        "option_region_8": "",
+        "option_region_9": "",
+        "option_region_10": "",
+        "option_region_11": "",
+        "option_region_12": "",
+        "option_region_13": "",
+        "question_region": "Dans quel canton vivez-vous ?",
+        "question_gender": "Quel est votre genre ?",
+        "question_education": "Quel est votre plus haut diplôme ?",
+        "question_language": "Quelle(s) langue(s) était parlée(s) à la maison dans votre jeunesse ? "
     }
 };
 
@@ -118,38 +187,10 @@ const consigne_consent =
         <li>De anonieme data die ik verstrek openbaar zullen worden gepubliceerd op het Open Science Framework.</li>\
     </ul>';
 
-const consigne_debrief =
-    '<p>Je bent nu klaar met het eerste deel van de studie. Nu stellen we je enkele vragen over jezelf en je ervaringen. ' +
-    'Als je een vraag niet wilt beantwoorden, kun je ‘Zeg ik liever niet’ selecteren.</p>';
 
 
-const options_langues = [
-    'Alleen Nederlands',
-    'Nederlands en dialect',
-    'Alleen dialect',
-    'Nederlands en een andere taal dan het Nederlands',
-    'Alleen een andere taal dan het Nederlands',
-    'Zeg ik liever niet'
-];
-
-const options_pronvinces = [
-    'Groningen',
-    'Friesland',
-    'Drenthe',
-    'Overijssel',
-    'Flevoland',
-    'Gelderland',
-    'Utrecht',
-    'Noord-Holland',
-    'Zuid-Holland',
-    'Zeeland',
-    'Noord-Brabant',
-    'Limburg',
-    'Ergens anders',
-    'Zeg ik liever niet'
-];
-
-const options_langincl = [
+// these options are not used as far as I know
+/*const options_langincl = [
     'Zeer belangrijk',
     'Enigzins belangrijk',
     'Neutraal',
@@ -165,7 +206,7 @@ const options_proprelang = [
     'Ja, maar zelden',
     'Nee',
     'Zeg ik liever niet'
-]
+]*/
 
 const stimuli = [
     {

@@ -17,8 +17,6 @@ var options_genre = [
     experiment_strings.option_pnts
 ];
 
-
-
 var options_education_all = [
     experiment_strings.option_education_1,
     experiment_strings.option_education_2,
@@ -38,4 +36,54 @@ for (var i = options_education_all.length -1 ; i >=0 ; i--) {
     }
 }
 
-options_education[options_education.length] = experiment_strings.option_pnts
+options_education[options_education.length] = experiment_strings.option_pnts;
+
+
+var consigne_debrief = '<p>'+ experiment_strings.message_transition +'</p>';
+
+
+// Do we really need those? 
+var options_language_all = [
+    experiment_strings.option_language_1,
+    experiment_strings.option_language_2,
+    experiment_strings.option_language_3,
+    experiment_strings.option_language_4,
+    experiment_strings.option_language_5
+];
+
+var options_language = [];
+
+for (var i = options_language_all.length -1 ; i >=0 ; i--) {
+    if (options_language_all[i]!=""){
+        options_language[i] = options_language_all[i];
+    }
+}
+
+options_language[options_language.length] = experiment_strings.option_pnts;
+
+
+var options_region_all = [
+    experiment_strings.option_region_1,
+    experiment_strings.option_region_2,
+    experiment_strings.option_region_3,
+    experiment_strings.option_region_4,
+    experiment_strings.option_region_5,
+    experiment_strings.option_region_6,
+    experiment_strings.option_region_7,
+    experiment_strings.option_region_8,
+    experiment_strings.option_region_9,
+    experiment_strings.option_region_10,
+    experiment_strings.option_region_11,
+    experiment_strings.option_region_12,
+    experiment_strings.option_region_13
+];
+
+var options_region = [];
+
+for (var i = options_region_all.length -1 ; i >=0 ; i--) {
+    if (options_region_all[i]!=""){
+        options_region[i] = options_region_all[i];
+    }
+}
+
+options_region[options_region.length] = experiment_strings.option_pnts;

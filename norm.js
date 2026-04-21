@@ -33,7 +33,7 @@ jsPsych.data.addProperties({
     orderMF: order
 });
 
-var stimuli_select = jsPsych.randomization.sampleWithoutReplacement(stimuli, 2);
+var stimuli_select = jsPsych.randomization.sampleWithoutReplacement(stimuli, 1);
 
 
 if (order===1) {
@@ -139,10 +139,10 @@ var debrief = {
             type: jsPsychSurveyMultiChoice,
             questions: [
                 {prompt: experiment_strings.question_age, options: options_age, required: true},
-                {prompt: 'In welke provincie woon je?', options: options_pronvinces, required: true},
-                {prompt: 'Wat is jouw genderidentiteit?', options: options_genre, required: true},
-                {prompt: 'Wat is je hoogst genoten opleiding?', options: options_education, required: true},
-                {prompt: 'Welke talen werden thuis gesproken tijdens je jeugd?', options: options_langues, required: true},
+                {prompt: experiment_strings.question_region, options: options_region, required: true},
+                {prompt: experiment_strings.question_gender, options: options_genre, required: true},
+                {prompt: experiment_strings.question_education, options: options_education, required: true},
+                {prompt: experiment_strings.question_language, options: options_language, required: true},
                 //{prompt: 'Ben jij bekend met zogenaamde “inclusieve vormen” van zelfstandige naamworden in talen zoals het Duits (bv. Mitarbeiter*in), het Frans (bv. les employé·es), of het Spaans (bv. amigxs)?', options: options_YN, required: true},
                 //{prompt: 'Hoe belangrijk vind je het om inclusief taalgebruik aan te moedigen?', options: options_langincl, required: true},
                 //{prompt: 'Probeer jij jouw taalgebruik aan te passen om meer inclusief te zijn?', options: options_proprelang, required: true}
