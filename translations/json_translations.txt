@@ -44,7 +44,8 @@
         "question_region": "Where do you live? ",
         "question_gender": "What is your gender? ",
         "question_education": "What is your highest degree?",
-        "question_language": "What language(s) were spoken at home in your youth?"
+        "question_language": "What language(s) were spoken at home in your youth?",
+        "question_proportion": "Give your estimate of the ratio "
     },
     "Dutch": {
         "option_yes": "Ja",
@@ -91,7 +92,8 @@
         "question_region": "In welke provincie woon je?",
         "question_gender": "Wat is jouw genderidentiteit?",
         "question_education": "Wat is je hoogst genoten opleiding",
-        "question_language": "Welke talen werden thuis gesproken tijdens je jeugd?"
+        "question_language": "Welke talen werden thuis gesproken tijdens je jeugd?",
+        "question_proportion": "Geef jouw inschatting aan van de verhouding van  "
     },
     "French": {
         "option_yes": "Oui",
@@ -138,6 +140,7 @@
         "question_region": "Dans quel canton vivez-vous ?",
         "question_gender": "Quel est votre genre ?",
         "question_education": "Quel est votre plus haut diplôme ?",
-        "question_language": "Quelle(s) langue(s) était parlée(s) à la maison dans votre jeunesse ? "
+        "question_language": "Quelle(s) langue(s) était parlée(s) à la maison dans votre jeunesse ? ",
+        "question_proportion": "Donnez votre estimation de la proportion "
     }
 }

@@ -87,3 +87,7 @@ for (var i = options_region_all.length -1 ; i >=0 ; i--) {
 }
 
 options_region[options_region.length] = experiment_strings.option_pnts;
+
+var consent_page = all_htmls["consent_"+language+".html"];
+
+var instructions_page = all_htmls["instructions_"+language+".html"];

@@ -57,23 +57,14 @@ const symbolen = {
 
 const toestemming = {
     type: jsPsychHtmlButtonResponse,
-    stimulus: consigne_consent,
+    stimulus: consent_page,
 	//choices: ['Ik ga akkoord']
 	choices: [experiment_strings.button_agree]
 };
 
 const instructions = {
     type: jsPsychHtmlButtonResponse,
-    stimulus: function() {
-        return '<strong>INSTRUCTIES</strong>' +
-            '<p>In deze studie zijn we geïnteresseerd in wat mensen denken dat de genderverhoudingen zijn binnen ' +
-            'verschillende groepen. Zijn de meeste juweliers in Nederland '+verhouding[x]+' of juist '+verhouding[y]+', of is het een 50/50 split?</p>' +
-            '<p>Tijdens deze taak krijg je 25 zelfstandige naamwoorden te zien die verwijzen naar bepaalde groepen ' +
-            '(zoals ‘juweliers’). Bij elk zelfstandig naamwoord vragen we je om met behulp van een schaal aan te geven ' +
-            'wat je denkt dat de verhouding is tussen ' + verhouding[x] + ' en ' + verhouding[y] + ' in Nederland binnen deze groep. Het gaat hier ' +
-            'alleen om jouw inschatting van de huidige stand van zaken in Nederland; je hoeft het niet zeker te weten.</p>' +
-            '<p>Als je klaar bent om te beginnen, klik dan op ‘Beginnen’.</p>';
-    },
+    stimulus: instructions_page,
     choices: [experiment_strings.button_start]
 };
 
@@ -90,7 +81,7 @@ const procedure = {
             questions: [
                 {
                     prompt: function() {
-                        return "Geef jouw inschatting van de verhouding van " + verhouding[x] + " / " + verhouding[y] + " aan:"
+                        return experiment_strings.question_proportion + verhouding[x] + " / " + verhouding[y] + ":"
                     },
                     labels: function() {
                         var dutchx = jsPsych.timelineVariable("dutch"+x, true);
