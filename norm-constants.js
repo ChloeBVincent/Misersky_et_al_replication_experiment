@@ -14,8 +14,8 @@ const all_translations = {
         "option_gender_female": "Woman",
         "option_gender_nb": "Nonbinary",
         "option_gender_other": "Other",
-        "label_proportion_men": "men",
-        "label_proportion_women": "women",
+        "label_ratio_men": "men",
+        "label_ratio_women": "women",
         "option_education_1": "No education",
         "option_education_2": "Middle school",
         "option_education_3": "Higher education",
@@ -62,8 +62,8 @@ const all_translations = {
         "option_gender_female": "Vrouw",
         "option_gender_nb": "Non-binair",
         "option_gender_other": "Anders",
-        "label_proportion_men": "mannen",
-        "label_proportion_women": "vrouwen",
+        "label_ratio_men": "mannen",
+        "label_ratio_women": "vrouwen",
         "option_education_1": "Geen opleiding",
         "option_education_2": "Middelbare school (VMBO, HAVO, VWO, etc.)",
         "option_education_3": "Middelbaar beroepsonderwijs (MBO)",
@@ -110,8 +110,8 @@ const all_translations = {
         "option_gender_female": "Femme",
         "option_gender_nb": "Non-binaire",
         "option_gender_other": "Autre",
-        "label_proportion_men": "hommes",
-        "label_proportion_women": "femmes",
+        "label_ratio_men": "hommes",
+        "label_ratio_women": "femmes",
         "option_education_1": "École obligatoire",
         "option_education_2": "Certificat fédéral de capacité CFC",
         "option_education_3": "École supérieure ES",
@@ -158,6 +158,47 @@ const all_htmls = {
 };
 
 
+const all_stimuli = {
+    "English": [
+        {
+            "noun": "pharmacists",
+            "occupation_M": "pharmacists",
+            "occupation_F": "pharmacists"
+        },
+        {
+            "noun": "author",
+            "occupation_M": "author",
+            "occupation_F": "author"
+        }
+    ],
+    "Dutch": [
+        {
+            "noun": "pharmacists",
+            "occupation_M": "apotheekers",
+            "occupation_F": "apotheekeressen"
+        },
+        {
+            "noun": "author",
+            "occupation_M": "auteur",
+            "occupation_F": "auteur"
+        }
+    ],
+    "French": [
+        {
+            "noun": "pharmacists",
+            "occupation_M": "pharmaciens",
+            "occupation_F": "pharmaciennes"
+        },
+        {
+            "noun": "author",
+            "occupation_M": "auteur",
+            "occupation_F": "autrice"
+        }
+    ]
+};
+
+
+
 
 // these options are not used as far as I know
 /*const options_langincl = [
@@ -178,7 +219,7 @@ const options_proprelang = [
     'Zeg ik liever niet'
 ]*/
 
-const stimuli = [
+/*const stimuli = [
     {
         "noun": "Chemists",
         "repf": 0.3983333333,
@@ -630,4 +671,4 @@ const stimuli = [
         "selected": 1
     }
 ];
-
+*/

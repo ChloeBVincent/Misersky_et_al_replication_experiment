@@ -45,17 +45,17 @@ else {
     var y = 'M';
 }
 
-const verhouding = {
-    'M': experiment_strings.label_proportion_men,
-    'F': experiment_strings.label_proportion_women
+const ratio_labels = {
+    'M': experiment_strings.label_ratio_men,
+    'F': experiment_strings.label_ratio_women
 }
 
-const symbolen = {
+const symbols = {
     'M': '♂',
     'F': '♀'
 }
 
-const toestemming = {
+const consent = {
     type: jsPsychHtmlButtonResponse,
     stimulus: consent_page,
 	//choices: ['Ik ga akkoord']
@@ -81,14 +81,14 @@ const procedure = {
             questions: [
                 {
                     prompt: function() {
-                        return experiment_strings.question_proportion + verhouding[x] + " / " + verhouding[y] + ":"
+                        return experiment_strings.question_proportion + ratio_labels[x] + " / " + ratio_labels[y] + ":"
                     },
                     labels: function() {
-                        var dutchx = jsPsych.timelineVariable("dutch"+x, true);
-                        var dutchy = jsPsych.timelineVariable("dutch"+y, true);
+                        var occupation_x = jsPsych.timelineVariable("occupation_" + x, true);
+                        var occupation_y = jsPsych.timelineVariable("occupation_" + y, true);
 
                         var labels = [
-                            "100 / 0<p style='font-size: small; position: relative; left: 50%; transform: translateX(-50%); width: auto; display: inline-block;'><strong>"+dutchx+"</strong> <span style='font-size: large'>"+symbolen[x]+"</span></p>", // <p>("+verhouding[x]+")</p>
+                            "100 / 0<p style='font-size: small; position: relative; left: 50%; transform: translateX(-50%); width: auto; display: inline-block;'><strong>"+occupation_x+"</strong> <span style='font-size: large'>"+symbols[x]+"</span></p>", // <p>("+verhouding[x]+")</p>
                             "90 / 10",
                             "80 / 20",
                             "70 / 30",
@@ -98,7 +98,7 @@ const procedure = {
                             "30 / 70",
                             "20 / 80",
                             "10 / 90",
-                            "0 / 100<p p style='font-size: small; position: relative; left: 50%; transform: translateX(-50%); width: auto; display: inline-block;'><strong>"+dutchy+"</strong> <span style='font-size: large'>"+symbolen[y]+"</span></p>" // <p>("+verhouding[y]+")</p>
+                            "0 / 100<p p style='font-size: small; position: relative; left: 50%; transform: translateX(-50%); width: auto; display: inline-block;'><strong>"+occupation_y+"</strong> <span style='font-size: large'>"+symbols[y]+"</span></p>" // <p>("+verhouding[y]+")</p>
                         ];
 
                         return labels;
@@ -108,7 +108,7 @@ const procedure = {
             ],
             button_label: experiment_strings.button_next,
             on_finish: function (data) {
-                data.stereotype = jsPsych.timelineVariable("stereotype", true);
+                //data.stereotype = jsPsych.timelineVariable("stereotype", true);
                 data.noun = jsPsych.timelineVariable("noun", true);
                 data.trialType = 'scaleMF';
                 // console.log(data)
@@ -161,7 +161,7 @@ var debrief = {
 
 
 const timeline = [
-    toestemming,
+    consent,
     instructions,
     procedure,
     debrief

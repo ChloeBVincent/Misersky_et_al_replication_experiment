@@ -11,8 +11,8 @@
 ;option_gender_female;Woman;Femme;Vrouw
 ;option_gender_nb;Nonbinary;Non-binaire;Non-binair
 ;option_gender_other;Other;Autre;Anders
-;label_proportion_men;men;hommes;mannen
-;label_proportion_women;women;femmes;vrouwen
+;label_ratio_men;men;hommes;mannen
+;label_ratio_women;women;femmes;vrouwen
 ;option_education_1;No education;École obligatoire;Geen opleiding
 ;option_education_2;Middle school;Certificat fédéral de capacité CFC;Middelbare school (VMBO, HAVO, VWO, etc.)
 ;option_education_3;Higher education;École supérieure ES;Middelbaar beroepsonderwijs (MBO)
