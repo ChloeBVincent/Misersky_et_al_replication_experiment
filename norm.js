@@ -50,6 +50,9 @@ const ratio_labels = {
     'F': experiment_strings.label_ratio_women
 }
 
+instructions_page = instructions_page.replaceAll("xxxx", ratio_labels[x])
+instructions_page = instructions_page.replaceAll("yyyy", ratio_labels[y])
+
 const symbols = {
     'M': '♂',
     'F': '♀'

@@ -90,6 +90,9 @@ options_region[options_region.length] = experiment_strings.option_pnts;
 
 var consent_page = all_htmls["consent_"+language+".html"];
 
-var instructions_page = all_htmls["instructions_"+language+".html"];
-
 var stimuli = all_stimuli[language];
+
+var instructions_page = "<strong>" + experiment_strings.title_instructions +"</strong> \n<p>"+
+                        experiment_strings.message_instructions_1+ "</p> \n<p>" +
+                        experiment_strings.message_instructions_2+ "</p> \n<p>" +
+                        experiment_strings.message_instructions_3+ "</p>";
