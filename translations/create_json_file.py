@@ -20,8 +20,8 @@ strings_dict = dict(English = english_dict,
                     Dutch = dutch_dict,
                     French = french_dict)
 
-with open('json_translations.txt', 'w') as json_file:
-    json.dump(strings_dict, json_file, indent=4, ensure_ascii=False)
+# with open('json_translations.txt', 'w') as json_file:
+#     json.dump(strings_dict, json_file, indent=4, ensure_ascii=False)
 
 ##############
 # HTML PAGES #
@@ -37,8 +37,8 @@ for filename in onlyfiles:
     with open(path+filename, 'r') as file:
         html_content.update({filename: file.read()})
 
-with open('json_html_content.txt', 'w') as json_file:
-    json.dump(html_content, json_file, indent=4, ensure_ascii=False)
+# with open('json_html_content.txt', 'w') as json_file:
+#     json.dump(html_content, json_file, indent=4, ensure_ascii=False)
 
 
 ###############
@@ -67,11 +67,11 @@ occupation_dict = dict(English = occupations_english_dict,
                        Dutch = occupations_dutch_dict,
                        French = occupations_french_dict)
 
-with open('json_occupations.txt', 'w') as json_file:
-    json.dump(occupation_dict, json_file, indent=4, ensure_ascii=False)
+# with open('json_occupations.txt', 'w') as json_file:
+#     json.dump(occupation_dict, json_file, indent=4, ensure_ascii=False)
 
 
 full_file = "const all_translations = " +json.dumps(strings_dict, indent=4, ensure_ascii=False) +";\nconst all_htmls = " +json.dumps(html_content, indent=4, ensure_ascii=False) +";\nconst all_stimuli = " +json.dumps(occupation_dict, indent=4, ensure_ascii=False)
 
-with open('norm-constants-auto.js', "w", newline='', encoding='utf-8') as f:
+with open('norm-constants-auto.js', "w", encoding='utf-8') as f:
     print(full_file, file=f)
