@@ -1,4 +1,4 @@
-const language = "English"; //TODO: change depending on language
+const language = "French"; //TODO: change depending on language
 
 const all_translations = {
     "English": {
@@ -52,7 +52,8 @@ const all_translations = {
         "FOR THE NEXT 3 TEXTS, xxxx and yyyy will be replaced by women or men (based on the variables label_ratio that was translated above) depending on the scale order. ": "",
         "message_instructions_1": "In this study, we are interested in what people think the gender ratios are within different groups. Are most jewellers in the Netherlands xxxx or yyyy, or is it a 50/50 split?",
         "message_instructions_2": "During this task, you will be shown 25 nouns that refer to specific groups (such as ‘jewellers’). For each noun, we ask you to use a scale to indicate what you think the ratio of xxxx to yyyy is in the Netherlands within this group. This is simply your estimate of the current situation in the Netherlands; you do not need to know for certain.",
-        "message_instructions_3": "When you are ready to begin, please click ‘Start’."
+        "message_instructions_3": "When you are ready to begin, please click ‘Start’.",
+        "title_document": "Gender proportions"
     },
     "Dutch": {
         "option_yes": "Ja",
@@ -105,7 +106,8 @@ const all_translations = {
         "FOR THE NEXT 3 TEXTS, xxxx and yyyy will be replaced by women or men (based on the variables label_ratio that was translated above) depending on the scale order. ": "",
         "message_instructions_1": "In deze studie zijn we geïnteresseerd in wat mensen denken dat de genderverhoudingen zijn binnen verschillende groepen. Zijn de meeste juweliers in Nederland vrouwen of juist mannen, of is het een 50/50 split?",
         "message_instructions_2": "Tijdens deze taak krijg je 25 zelfstandige naamwoorden te zien die verwijzen naar bepaalde groepen (zoals ‘juweliers’). Bij elk zelfstandig naamwoord vragen we je om met behulp van een schaal aan te geven wat je denkt dat de verhouding is tussen mannen en vrouwen in Nederland binnen deze groep. Het gaat hier alleen om jouw inschatting van de huidige stand van zaken in Nederland; je hoeft het niet zeker te weten.",
-        "message_instructions_3": "Als je klaar bent om te beginnen, klik dan op ‘Beginnen’."
+        "message_instructions_3": "Als je klaar bent om te beginnen, klik dan op ‘Beginnen’.",
+        "title_document": "Genderverhoudingen"
     },
     "French": {
         "option_yes": "Oui",
@@ -158,7 +160,8 @@ const all_translations = {
         "FOR THE NEXT 3 TEXTS, xxxx and yyyy will be replaced by women or men (based on the variables label_ratio that was translated above) depending on the scale order. ": "",
         "message_instructions_1": "lilalou ",
         "message_instructions_2": "blebllbe",
-        "message_instructions_3": "adsf"
+        "message_instructions_3": "adsf",
+        "title_document": "Proportions genrées"
     }
 };
 const all_htmls = {

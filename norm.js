@@ -1,3 +1,5 @@
+document.title = experiment_strings.title_document
+
 function saveData(name, data){
     var xhr = new XMLHttpRequest();
     xhr.open('POST', 'record_result.php'); //
