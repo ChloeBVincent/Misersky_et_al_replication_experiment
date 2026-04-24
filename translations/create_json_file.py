@@ -22,8 +22,6 @@ strings_dict = dict(English = english_dict,
 
 with open('json_translations.txt', 'w') as json_file:
     json.dump(strings_dict, json_file, indent=4, ensure_ascii=False)
-    
-print(json.dumps(strings_dict, indent=4, ensure_ascii=False)) # Pretty print JSON
 
 ##############
 # HTML PAGES #
@@ -72,4 +70,8 @@ occupation_dict = dict(English = occupations_english_dict,
 with open('json_occupations.txt', 'w') as json_file:
     json.dump(occupation_dict, json_file, indent=4, ensure_ascii=False)
 
-print(json.dumps(occupation_dict, indent=4, ensure_ascii=False)) # Pretty print JSON
+
+full_file = "const all_translations = " +json.dumps(strings_dict, indent=4, ensure_ascii=False) +";\nconst all_htmls = " +json.dumps(html_content, indent=4, ensure_ascii=False) +";\nconst all_stimuli = " +json.dumps(occupation_dict, indent=4, ensure_ascii=False)
+
+with open('norm-constants-auto.js', "w", newline='', encoding='utf-8') as f:
+    print(full_file, file=f)
