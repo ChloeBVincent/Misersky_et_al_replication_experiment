@@ -1,5 +1,3 @@
-const language = "English"; //TODO: change depending on language
-
 const all_translations = {
     "English": {
         "option_yes": "Yes",

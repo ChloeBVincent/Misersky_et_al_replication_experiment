@@ -1,0 +1,53 @@
+﻿test;variable;English;French;Dutch
+1;option_yes;Yes;Oui;Ja
+2;option_no;No;Non;Nee
+3;option_pnts;Prefer not to say;Ne se prononce pas;Zeg ik liever niet
+;button_agree;I agree;Je suis d'accord;Ik ga akkoord
+;message_end;Thanks bye;Merci pour les données;Jouw gegevens zijn bewaard. Hartelijk bedankt voor je deelname.
+;question_age;How old are you?;Quel âge avez-vous ?;Wat is jouw leeftijd?
+;button_start;Start;Commencer;Beginnen
+;button_next;Next;Suivant;Verder
+;option_gender_male;Man;Homme;Man
+;option_gender_female;Woman;Femme;Vrouw
+;option_gender_nb;Nonbinary;Non-binaire;Non-binair
+;option_gender_other;Other;Autre;Anders
+;label_ratio_men;men;hommes;mannen
+;label_ratio_women;women;femmes;vrouwen
+;option_education_1;No education;École obligatoire;Geen opleiding
+;option_education_2;Middle school;Certificat fédéral de capacité CFC;Middelbare school (VMBO, HAVO, VWO, etc.)
+;option_education_3;Higher education;École supérieure ES;Middelbaar beroepsonderwijs (MBO)
+;option_education_4;Other;Gymnase / collège / lycée;Hoger beroepsonderwijs (HBO)
+;option_education_5;;Bachelor;Wetenschappelijk onderwijs (Universiteit)
+;option_education_6;;Master;
+;option_education_7;;Doctorat;
+;option_education_8;;Autre;
+;message_transition;You have now completed the first part of the study. We will now ask you a few questions about yourself and your experiences. If you do not wish to answer a question, you can select ‘Prefer not to say’.;Vous avez maintenant terminé la première partie de l'étude. Nous allons maintenant vous poser quelques questions sur vous et votre parcours. Si vous ne souhaitez pas répondre à une question, vous pouvez sélectionner « Ne se prononce pas ».;Je bent nu klaar met het eerste deel van de studie. Nu stellen we je enkele vragen over jezelf en je ervaringen. Als je een vraag niet wilt beantwoorden, kun je ‘Zeg ik liever niet’ selecteren.
+;option_language_1;Only English;Français uniquement;Alleen Nederlands
+;option_language_2;English and another language;Français et une autre langue;Nederlands en dialect
+;option_language_3;Only another language than English;Uniquement une autre langue que le français;Alleen dialect
+;option_language_4;;;Nederlands en een andere taal dan het Nederlands
+;option_language_5;;;Alleen een andere taal dan het Nederlands
+;option_region_1;England;Fribourg;Groningen
+;option_region_2;Wales;Genève;Friesland
+;option_region_3;Scotland;Jura;Drenthe
+;option_region_4;Ireland;Neuchâtel;Overijssel
+;option_region_5;Somewhere else;Valais;Flevoland
+;option_region_6;;Vaud;Gelderland
+;option_region_7;;Autre;Utrecht
+;option_region_8;;;Noord-Holland
+;option_region_9;;;Zuid-Holland
+;option_region_10;;;Zeeland
+;option_region_11;;;Noord-Brabant
+;option_region_12;;;Limburg
+;option_region_13;;;Ergens anders
+;question_region;Where do you live? ;Dans quel canton vivez-vous ?;In welke provincie woon je?
+;question_gender;What is your gender? ;Quel est votre genre ?;Wat is jouw genderidentiteit?
+;question_education;What is your highest degree?;Quel est votre plus haut diplôme ?;Wat is je hoogst genoten opleiding
+;question_language;What language(s) were spoken at home in your youth?;Quelle(s) langue(s) était parlée(s) à la maison dans votre jeunesse ? ;Welke talen werden thuis gesproken tijdens je jeugd?
+;question_proportion;Give your estimate of the ratio ;Donnez votre estimation de la proportion ;Geef jouw inschatting aan van de verhouding van  
+;title_instructions;Instructions;Instructions;Instructies
+;FOR THE NEXT 3 TEXTS, xxxx and yyyy will be replaced by women or men (based on the variables label_ratio that was translated above) depending on the scale order. ;;;
+;message_instructions_1;In this study, we are interested in what people think the gender ratios are within different groups. Are most jewellers in the Netherlands xxxx or yyyy, or is it a 50/50 split?;lilalou ;In deze studie zijn we geïnteresseerd in wat mensen denken dat de genderverhoudingen zijn binnen verschillende groepen. Zijn de meeste juweliers in Nederland vrouwen of juist mannen, of is het een 50/50 split?
+;message_instructions_2;"During this task, you will be shown 25 nouns that refer to specific groups (such as ‘jewellers’). For each noun, we ask you to use a scale to indicate what you think the ratio of xxxx to yyyy is in the Netherlands within this group. This is simply your estimate of the current situation in the Netherlands; you do not need to know for certain.";blebllbe;"Tijdens deze taak krijg je 25 zelfstandige naamwoorden te zien die verwijzen naar bepaalde groepen (zoals ‘juweliers’). Bij elk zelfstandig naamwoord vragen we je om met behulp van een schaal aan te geven wat je denkt dat de verhouding is tussen mannen en vrouwen in Nederland binnen deze groep. Het gaat hier alleen om jouw inschatting van de huidige stand van zaken in Nederland; je hoeft het niet zeker te weten."
+;message_instructions_3;When you are ready to begin, please click ‘Start’.;adsf;Als je klaar bent om te beginnen, klik dan op ‘Beginnen’.
+;title_document;Gender proportions;Proportions genrées;Genderverhoudingen
