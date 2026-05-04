@@ -1,3 +1,427 @@
 ﻿id;occupation;English_M;English_F;French_M;French_F;Dutch_M;Dutch_F
-1;pharmacists;pharmacists;pharmacists;pharmaciens;pharmaciennes;apotheekers;apotheekeressen
-2;author;author;author;auteur;autrice;auteur;auteur
+1;Academics;Academics;Academics;universitaires;universitaires;Academics_DutchM;universitaires_DutchF
+2;Accountants   ;Accountants   ;Accountants   ;Comptables;comptables;Accountants   _DutchM;Comptables_DutchF
+;Acrobats   ;Acrobats   ;Acrobats   ;acrobates;acrobates;Acrobats   _DutchM;acrobates_DutchF
+;Actors;Actors;Actors;acteurs;actrices;Actors_DutchM;acteurs_DutchF
+;Acupuncturists   ;Acupuncturists   ;Acupuncturists   ;acupuncteurs;acupunctrices;Acupuncturists   _DutchM;acupuncteurs_DutchF
+;Administrative workers   ;Administrative workers   ;Administrative workers   ;employés dans l'administration;employées dans l'administration;Administrative workers   _DutchM;employés dans l'administration_DutchF
+;Admirals   ;Admirals   ;Admirals   ;amiraux;amiraulles / femmes amiraux;Admirals   _DutchM;amiraux_DutchF
+;Aerobics instructors   ;Aerobics instructors   ;Aerobics instructors   ;coachs d'aérobic;coachs d'aérobic;Aerobics instructors   _DutchM;coachs d'aérobic_DutchF
+;Air traffic controllers   ;Air traffic controllers   ;Air traffic controllers   ;contrôleurs aériens;contrôleuses aériennes;Air traffic controllers   _DutchM;contrôleurs aériens_DutchF
+;Alcoholics   ;Alcoholics   ;Alcoholics   ;alcooliques;alcooliques;Alcoholics   _DutchM;alcooliques_DutchF
+;Animators;Animators;Animators;animateurs de dessin animé;animatrices de dessin animé;Animators_DutchM;animateurs de dessin animé_DutchF
+;Antique dealers   ;Antique dealers   ;Antique dealers   ;antiquaires;antiquaires;Antique dealers   _DutchM;antiquaires_DutchF
+;Apprentices   ;Apprentices   ;Apprentices   ;apprentis;apprenties;Apprentices   _DutchM;apprentis_DutchF
+;Architects   ;Architects   ;Architects   ;architectes;architectes;Architects   _DutchM;architectes_DutchF
+;Archivists   ;Archivists   ;Archivists   ;archivistes;archivistes;Archivists   _DutchM;archivistes_DutchF
+;Artists   ;Artists   ;Artists   ;artistes;artistes;Artists   _DutchM;artistes_DutchF
+;Assistants   ;Assistants   ;Assistants   ;assistants;assistantes;Assistants   _DutchM;assistants_DutchF
+;Astrologists   ;Astrologists   ;Astrologists   ;astrologues;astrologues;Astrologists   _DutchM;astrologues_DutchF
+;Astronauts   ;Astronauts   ;Astronauts   ;astronautes;astronautes;Astronauts   _DutchM;astronautes_DutchF
+;Astronomers   ;Astronomers   ;Astronomers   ;astronomes;astronomes;Astronomers   _DutchM;astronomes_DutchF
+;Athletes   ;Athletes   ;Athletes   ;athlètes;athlètes;Athletes   _DutchM;athlètes_DutchF
+;Auctioneers   ;Auctioneers   ;Auctioneers   ;commissaires-priseurs;commissaires-priseuses;Auctioneers   _DutchM;commissaires-priseurs_DutchF
+;Authors   ;Authors   ;Authors   ;auteurs;auteures;Authors   _DutchM;auteurs_DutchF
+;Babies      ;Babies      ;Babies      ;bébés;bébés;Babies      _DutchM;bébés_DutchF
+;Babysitters   ;Babysitters   ;Babysitters   ;baby-sitters;baby-sitters;Babysitters   _DutchM;baby-sitters_DutchF
+;Bakers   ;Bakers   ;Bakers   ;boulangers;boulangères;Bakers   _DutchM;boulangers_DutchF
+;Ballet dancers   ;Ballet dancers   ;Ballet dancers   ;danseurs de ballet;danseuses de ballet;Ballet dancers   _DutchM;danseurs de ballet_DutchF
+;Bank clerks   ;Bank clerks   ;Bank clerks   ;employés de banque;employées de banque;Bank clerks   _DutchM;employés de banque_DutchF
+;Bankers   ;Bankers   ;Bankers   ;banquiers;banquières;Bankers   _DutchM;banquiers_DutchF
+;Barbers   ;Barbers   ;Barbers   ;barbiers;barbières;Barbers   _DutchM;barbiers_DutchF
+;Baristas;Baristas;Baristas;baristas;baristas;Baristas_DutchM;baristas_DutchF
+;Bartenders   ;Bartenders   ;Bartenders   ;barmans;barmans / barmaids;Bartenders   _DutchM;barmans_DutchF
+;Basketball players   ;Basketball players   ;Basketball players   ;basketteurs;basketteuses;Basketball players   _DutchM;basketteurs_DutchF
+;Bass players   ;Bass players   ;Bass players   ;bassistes;bassistes;Bass players   _DutchM;bassistes_DutchF
+;Beauticians   ;Beauticians   ;Beauticians   ;esthéticiens;esthéticiennes;Beauticians   _DutchM;esthéticiens_DutchF
+;Beekeepers;Beekeepers;Beekeepers;apiculteurs;apicultrices;Beekeepers_DutchM;apiculteurs_DutchF
+;Bikers   ;Bikers   ;Bikers   ;motards;motardes;Bikers   _DutchM;motards_DutchF
+;Biologists   ;Biologists   ;Biologists   ;biologistes;biologistes;Biologists   _DutchM;biologistes_DutchF
+;Birth attendants   ;Birth attendants   ;Birth attendants   ;sage-femmes;sage-femmes;Birth attendants   _DutchM;sage-femmes_DutchF
+;Blacksmiths   ;Blacksmiths   ;Blacksmiths   ;forgerons;forgeronnes;Blacksmiths   _DutchM;forgerons_DutchF
+;Blue-collar workers;Blue-collar workers;Blue-collar workers;ouvriers;ouvrières;Blue-collar workers_DutchM;ouvriers_DutchF
+;Board game players;Board game players;Board game players;joueurs de jeux de société;joueuses de jeux de société;Board game players_DutchM;joueurs de jeux de société_DutchF
+;Bodyguards;Bodyguards;Bodyguards;gardes du corps;gardes du corps;Bodyguards_DutchM;gardes du corps_DutchF
+;Bosses   ;Bosses   ;Bosses   ;patrons;patronnes;Bosses   _DutchM;patrons_DutchF
+;Boutique owners   ;Boutique owners   ;Boutique owners   ;gérants de boutique;gérantes de boutique;Boutique owners   _DutchM;gérants de boutique_DutchF
+;Boxers   ;Boxers   ;Boxers   ;boxeurs;boxeuses;Boxers   _DutchM;boxeurs_DutchF
+;Bricklayers   ;Bricklayers   ;Bricklayers   ;maçons;maçonnes;Bricklayers   _DutchM;maçons_DutchF
+;Building contractors   ;Building contractors   ;Building contractors   ;entrepreneurs en construction;entrepreneuses en construction;Building contractors   _DutchM;entrepreneurs en construction_DutchF
+;Bus drivers   ;Bus drivers   ;Bus drivers   ;conducteurs de bus;conductrices de bus;Bus drivers   _DutchM;conducteurs de bus_DutchF
+;Butchers   ;Butchers   ;Butchers   ;bouchers;bouchères;Butchers   _DutchM;bouchers_DutchF
+;Cabinet ministers   ;Cabinet ministers   ;Cabinet ministers   ;ministres;ministres;Cabinet ministers   _DutchM;ministres_DutchF
+;Camera operators   ;Camera operators   ;Camera operators   ;cadreurs;cadreuses;Camera operators   _DutchM;cadreurs_DutchF
+;Campers   ;Campers   ;Campers   ;campeurs;campeuses;Campers   _DutchM;campeurs_DutchF
+;Canteen assistants   ;Canteen assistants   ;Canteen assistants   ;aides de cantine;aides de cantine;Canteen assistants   _DutchM;aides de cantine_DutchF
+;Car mechanics   ;Car mechanics   ;Car mechanics   ;mécaniciens automobiles;mécaniciennes automobiles;Car mechanics   _DutchM;mécaniciens automobiles_DutchF
+;Card players   ;Card players   ;Card players   ;joueurs de cartes;joueuses de cartes;Card players   _DutchM;joueurs de cartes_DutchF
+;Care workers   ;Care workers   ;Care workers   ;travailleurs sociaux;travailleuses sociales;Care workers   _DutchM;travailleurs sociaux_DutchF
+;Caregivers   ;Caregivers   ;Caregivers   ;aidants;aidantes;Caregivers   _DutchM;aidants_DutchF
+;Carpenters   ;Carpenters   ;Carpenters   ;charpentiers;charpentières;Carpenters   _DutchM;charpentiers_DutchF
+;Cartoonists   ;Cartoonists   ;Cartoonists   ;dessinateurs de bandes dessinées;dessinatrices de bandes dessinées;Cartoonists   _DutchM;dessinateurs de bandes dessinées_DutchF
+;Cashiers   ;Cashiers   ;Cashiers   ;caissiers;caissières;Cashiers   _DutchM;caissiers_DutchF
+;Cat owners   ;Cat owners   ;Cat owners   ;propriétaires de chat;propriétaires de chat;Cat owners   _DutchM;propriétaires de chat_DutchF
+;Caterers   ;Caterers   ;Caterers   ;traiteurs;traiteuses;Caterers   _DutchM;traiteurs_DutchF
+;Celebrities   ;Celebrities   ;Celebrities   ;célébrités;célébrités;Celebrities   _DutchM;célébrités_DutchF
+;Ceramists;Ceramists;Ceramists;céramistes;céramistes;Ceramists_DutchM;céramistes_DutchF
+;Chair persons   ;Chair persons   ;Chair persons   ;président du comité;présidente du comité;Chair persons   _DutchM;président du comité_DutchF
+;Chefs;Chefs;Chefs;chefs cuisiniers;chefs cuisinières;Chefs_DutchM;chefs cuisiniers_DutchF
+;Chemists   ;Chemists   ;Chemists   ;chimistes;chimistes;Chemists   _DutchM;chimistes_DutchF
+;Child educators   ;Child educators   ;Child educators   ;éducateurs de la petite enfance;éducatrices de la petite enfance;Child educators   _DutchM;éducateurs de la petite enfance_DutchF
+;Children      ;Children      ;Children      ;enfants;enfants;Children      _DutchM;enfants_DutchF
+;Chiropractors   ;Chiropractors   ;Chiropractors   ;chiropracteurs;chiropractrices;Chiropractors   _DutchM;chiropracteurs_DutchF
+;Chocolate lovers   ;Chocolate lovers   ;Chocolate lovers   ;amateurs de chocolat;amatrices de chocolat;Chocolate lovers   _DutchM;amateurs de chocolat_DutchF
+;Choreographers   ;Choreographers   ;Choreographers   ;chorégraphes;chorégraphes;Choreographers   _DutchM;chorégraphes_DutchF
+;Cinema goers   ;Cinema goers   ;Cinema goers   ;spectateurs de cinéma;spectatrices de cinéma;Cinema goers   _DutchM;spectateurs de cinéma_DutchF
+;City planners;City planners;City planners;urbanistes;urbanistes;City planners_DutchM;urbanistes_DutchF
+;Clairvoyants   ;Clairvoyants   ;Clairvoyants   ;voyants;voyantes;Clairvoyants   _DutchM;voyants_DutchF
+;Cleaners   ;Cleaners   ;Cleaners   ;techniciens de surface;techniciennes de surface;Cleaners   _DutchM;techniciens de surface_DutchF
+;Climbers   ;Climbers   ;Climbers   ;grimpeurs;grimpeuses;Climbers   _DutchM;grimpeurs_DutchF
+;Clinical psychologists   ;Clinical psychologists   ;Clinical psychologists   ;psychologues cliniciens;psychologues cliniciennes;Clinical psychologists   _DutchM;psychologues cliniciens_DutchF
+;Clowns   ;Clowns   ;Clowns   ;clowns;clowns;Clowns   _DutchM;clowns_DutchF
+;Colonels   ;Colonels   ;Colonels   ;colonels;colonelles;Colonels   _DutchM;colonels_DutchF
+;Comedians   ;Comedians   ;Comedians   ;humoristes;humoristes;Comedians   _DutchM;humoristes_DutchF
+;Company directors   ;Company directors   ;Company directors   ;directeurs d'entreprise;directrices d'entreprise;Company directors   _DutchM;directeurs d'entreprise_DutchF
+;Composers   ;Composers   ;Composers   ;compositeurs;compositrices;Composers   _DutchM;compositeurs_DutchF
+;Computer programmers   ;Computer programmers   ;Computer programmers   ;programmeurs informatique;programmeuses informatique;Computer programmers   _DutchM;programmeurs informatique_DutchF
+;Computer specialists   ;Computer specialists   ;Computer specialists   ;informaticiens;informaticiennes;Computer specialists   _DutchM;informaticiens_DutchF
+;Computer technicians   ;Computer technicians   ;Computer technicians   ;techniciens informatiques;techniciennes informatiques;Computer technicians   _DutchM;techniciens informatiques_DutchF
+;Construction workers   ;Construction workers   ;Construction workers   ;ouvriers du bâtiment;ouvrières du bâtiment;Construction workers   _DutchM;ouvriers du bâtiment_DutchF
+;Content creators;Content creators;Content creators;créateurs de contenu;créatrices de contenu;Content creators_DutchM;créateurs de contenu_DutchF
+;Cooks;Cooks;Cooks;cuisiniers;cuisinières;Cooks_DutchM;cuisiniers_DutchF
+;Coordinators;Coordinators;Coordinators;coordinateurs;coordinatrices;Coordinators_DutchM;coordinateurs_DutchF
+;Counseling psychologists   ;Counseling psychologists   ;Counseling psychologists   ;psychothérapeutes;psychothérapeutes;Counseling psychologists   _DutchM;psychothérapeutes_DutchF
+;Couriers   ;Couriers   ;Couriers   ;coursiers;coursières;Couriers   _DutchM;coursiers_DutchF
+;Craft workers   ;Craft workers   ;Craft workers   ;artisans;artisanes;Craft workers   _DutchM;artisans_DutchF
+;Crane operators   ;Crane operators   ;Crane operators   ;grutiers;grutières;Crane operators   _DutchM;grutiers_DutchF
+;Criminals   ;Criminals   ;Criminals   ;criminels;criminelles;Criminals   _DutchM;criminels_DutchF
+;Cult members   ;Cult members   ;Cult members   ;membres de secte;membres de secte;Cult members   _DutchM;membres de secte_DutchF
+;Curators   ;Curators   ;Curators   ;conservateurs de musée;conservatrices de musée;Curators   _DutchM;conservateurs de musée_DutchF
+;Customers   ;Customers   ;Customers   ;clients;clientes;Customers   _DutchM;clients_DutchF
+;Customs inspectors   ;Customs inspectors   ;Customs inspectors   ;inspecteurs des douanes;inspectrices des douanes;Customs inspectors   _DutchM;inspecteurs des douanes_DutchF
+;Customs officers   ;Customs officers   ;Customs officers   ;douaniers;douanières;Customs officers   _DutchM;douaniers_DutchF
+;Cyclists   ;Cyclists   ;Cyclists   ;cyclistes;cyclistes;Cyclists   _DutchM;cyclistes_DutchF
+;Dance instructors   ;Dance instructors   ;Dance instructors   ;professeurs de danse;professeures de danse;Dance instructors   _DutchM;professeurs de danse_DutchF
+;Dancers   ;Dancers   ;Dancers   ;danseurs;danseuses;Dancers   _DutchM;danseurs_DutchF
+;Data analyst;Data analyst;Data analyst;data analysts;data analysts;Data analyst_DutchM;data analysts_DutchF
+;Deacons   ;Deacons   ;Deacons   ;diacres;diaconesses;Deacons   _DutchM;diacres_DutchF
+;Delivery drivers;Delivery drivers;Delivery drivers;livreurs;livreuses;Delivery drivers_DutchM;livreurs_DutchF
+;Dental hygienists   ;Dental hygienists   ;Dental hygienists   ;hygiénistes dentaires;hygiénistes dentaires;Dental hygienists   _DutchM;hygiénistes dentaires_DutchF
+;Dental technicians   ;Dental technicians   ;Dental technicians   ;techniciens-dentistes;techniciennes-dentistes;Dental technicians   _DutchM;techniciens-dentistes_DutchF
+;Dentists   ;Dentists   ;Dentists   ;dentistes;dentistes;Dentists   _DutchM;dentistes_DutchF
+;Designers   ;Designers   ;Designers   ;designers;designers;Designers   _DutchM;designers_DutchF
+;Detectives   ;Detectives   ;Detectives   ;détectives;détectives;Detectives   _DutchM;détectives_DutchF
+;Dieticians   ;Dieticians   ;Dieticians   ;diététiciens;diététiciennes;Dieticians   _DutchM;diététiciens_DutchF
+;Diplomats   ;Diplomats   ;Diplomats   ;diplomates;diplomates;Diplomats   _DutchM;diplomates_DutchF
+;Doctors of Philosophy   ;Doctors of Philosophy   ;Doctors of Philosophy   ;docteurs (PhD);docteures (PhD);Doctors of Philosophy   _DutchM;docteurs (PhD)_DutchF
+;Dog owners   ;Dog owners   ;Dog owners   ;propriétaires de chien;propriétaires de chien;Dog owners   _DutchM;propriétaires de chien_DutchF
+;Door keepers   ;Door keepers   ;Door keepers   ;portiers;portières;Door keepers   _DutchM;portiers_DutchF
+;Dressmakers   ;Dressmakers   ;Dressmakers   ;couturiers;couturières;Dressmakers   _DutchM;couturiers_DutchF
+;Drivers   ;Drivers   ;Drivers   ;conducteurs;conductrices;Drivers   _DutchM;conducteurs_DutchF
+;Driving instructors   ;Driving instructors   ;Driving instructors   ;moniteurs d'auto-école;monitrices d'auto-école;Driving instructors   _DutchM;moniteurs d'auto-école_DutchF
+;Drug addicts   ;Drug addicts   ;Drug addicts   ;toxicomanes;toxicomanes;Drug addicts   _DutchM;toxicomanes_DutchF
+;Drug dealers   ;Drug dealers   ;Drug dealers   ;Dealers;dealers;Drug dealers   _DutchM;Dealers_DutchF
+;Drummers   ;Drummers   ;Drummers   ;batteurs;batteuses;Drummers   _DutchM;batteurs_DutchF
+;Economists   ;Economists   ;Economists   ;économistes;économistes;Economists   _DutchM;économistes_DutchF
+;Editors   ;Editors   ;Editors   ;rédacteurs en chef;rédactrices en chef;Editors   _DutchM;rédacteurs en chef_DutchF
+;Educational psychologists   ;Educational psychologists   ;Educational psychologists   ;psychologues scolaires;psychologues scolaires;Educational psychologists   _DutchM;psychologues scolaires_DutchF
+;Electricians   ;Electricians   ;Electricians   ;électriciens;électriciennes;Electricians   _DutchM;électriciens_DutchF
+;Embezzlers   ;Embezzlers   ;Embezzlers   ;escrocs;escrocs;Embezzlers   _DutchM;escrocs_DutchF
+;Engine-drivers   ;Engine-drivers   ;Engine-drivers   ;pilotes de locomotives;pilotes de locomotives;Engine-drivers   _DutchM;pilotes de locomotives_DutchF
+;Engineers   ;Engineers   ;Engineers   ;ingénieurs;ingénieures;Engineers   _DutchM;ingénieurs_DutchF
+;Entrepreneurs;Entrepreneurs;Entrepreneurs;entrepreneurs;entrepreneuses;Entrepreneurs_DutchM;entrepreneurs_DutchF
+;Environmentalists   ;Environmentalists   ;Environmentalists   ;écologistes;écologistes;Environmentalists   _DutchM;écologistes_DutchF
+;Escourts;Escourts;Escourts;escorts;escorts;Escourts_DutchM;escorts_DutchF
+;Estate agents   ;Estate agents   ;Estate agents   ;agents immobiliers;agentes immobilières;Estate agents   _DutchM;agents immobiliers_DutchF
+;Executives   ;Executives   ;Executives   ;cadres;cadres;Executives   _DutchM;cadres_DutchF
+;Exercise instructors   ;Exercise instructors   ;Exercise instructors   ;coach sportif;coach sportive;Exercise instructors   _DutchM;coach sportif_DutchF
+;Explorers   ;Explorers   ;Explorers   ;explorateurs;exploratrices;Explorers   _DutchM;explorateurs_DutchF
+;Extremists;Extremists;Extremists;extrémistes;extrémistes;Extremists_DutchM;extrémistes_DutchF
+;Factory managers   ;Factory managers   ;Factory managers   ;directeurs d'usine;directrices d'usine;Factory managers   _DutchM;directeurs d'usine_DutchF
+;Fans   ;Fans   ;Fans   ;fans;fans;Fans   _DutchM;fans_DutchF
+;Farmers   ;Farmers   ;Farmers   ;agriculteurs;agricultrices;Farmers   _DutchM;agriculteurs_DutchF
+;Fencers   ;Fencers   ;Fencers   ;escrimeurs;escrimeuses;Fencers   _DutchM;escrimeurs_DutchF
+;Figure skaters   ;Figure skaters   ;Figure skaters   ;patineurs artistiques;patineuses artistiques;Figure skaters   _DutchM;patineurs artistiques_DutchF
+;Film directors   ;Film directors   ;Film directors   ;réalisateurs;réalisatrices;Film directors   _DutchM;réalisateurs_DutchF
+;Film stars   ;Film stars   ;Film stars   ;stars de cinéma;stars de cinéma;Film stars   _DutchM;stars de cinéma_DutchF
+;Financial advisers   ;Financial advisers   ;Financial advisers   ;conseillers financiers;conseillères financières;Financial advisers   _DutchM;conseillers financiers_DutchF
+;Financial analysts   ;Financial analysts   ;Financial analysts   ;analystes financiers;analystes financières;Financial analysts   _DutchM;analystes financiers_DutchF
+;Firefighters   ;Firefighters   ;Firefighters   ;pompiers;pompières;Firefighters   _DutchM;pompiers_DutchF
+;Flight attendants   ;Flight attendants   ;Flight attendants   ;stewards;hôtesses de l'air;Flight attendants   _DutchM;stewards_DutchF
+;Florists   ;Florists   ;Florists   ;fleuristes;fleuristes;Florists   _DutchM;fleuristes_DutchF
+;Flute players   ;Flute players   ;Flute players   ;flûtistes;flûtistes;Flute players   _DutchM;flûtistes_DutchF
+;Football coaches   ;Football coaches   ;Football coaches   ;entraîneurs de foot;entraîneuses de foot;Football coaches   _DutchM;entraîneurs de foot_DutchF
+;Football players   ;Football players   ;Football players   ;footballeurs;footballeuses;Football players   _DutchM;footballeurs_DutchF
+;Forensic psychologists   ;Forensic psychologists   ;Forensic psychologists   ;psychologues forensiques;psychologues forensiques;Forensic psychologists   _DutchM;psychologues forensiques_DutchF
+;Forest rangers   ;Forest rangers   ;Forest rangers   ;gardes forestiers;gardes forestières;Forest rangers   _DutchM;gardes forestiers_DutchF
+;Fortune tellers   ;Fortune tellers   ;Fortune tellers   ;diseurs de bonne aventure;diseuses de bonne aventure;Fortune tellers   _DutchM;diseurs de bonne aventure_DutchF
+;Funeral directors   ;Funeral directors   ;Funeral directors   ;directeurs des pompes funèbres;directrices des pompes funèbres;Funeral directors   _DutchM;directeurs des pompes funèbres_DutchF
+;Game designers;Game designers;Game designers;concepteurs de jeux;conceptrices de jeux;Game designers_DutchM;concepteurs de jeux_DutchF
+;Game wardens   ;Game wardens   ;Game wardens   ;gardes-chasses;gardes-chasses;Game wardens   _DutchM;gardes-chasses_DutchF
+;Gang members;Gang members;Gang members;Membres de gang;membres de gang;Gang members_DutchM;Membres de gang_DutchF
+;Gardeners   ;Gardeners   ;Gardeners   ;jardiniers;jardinières;Gardeners   _DutchM;jardiniers_DutchF
+;General managers   ;General managers   ;General managers   ;directeurs généraux;directrices générales;General managers   _DutchM;directeurs généraux_DutchF
+;Generals   ;Generals   ;Generals   ;généraux;générales;Generals   _DutchM;généraux_DutchF
+;Geologists   ;Geologists   ;Geologists   ;géologues;géologues;Geologists   _DutchM;géologues_DutchF
+;Goalkeepers   ;Goalkeepers   ;Goalkeepers   ;gardiens de but;gardiennes de but;Goalkeepers   _DutchM;gardiens de but_DutchF
+;Goldsmiths   ;Goldsmiths   ;Goldsmiths   ;orfèvres;orfèvres;Goldsmiths   _DutchM;orfèvres_DutchF
+;Golfers   ;Golfers   ;Golfers   ;golfeurs;golfeuses;Golfers   _DutchM;golfeurs_DutchF
+;Government officials   ;Government officials   ;Government officials   ;fonctionnaires;fonctionnaires;Government officials   _DutchM;fonctionnaires_DutchF
+;Governors   ;Governors   ;Governors   ;gouverneurs;gouverneuses;Governors   _DutchM;gouverneurs_DutchF
+;Graphic designers   ;Graphic designers   ;Graphic designers   ;graphistes;graphistes;Graphic designers   _DutchM;graphistes_DutchF
+;Guards   ;Guards   ;Guards   ;gardiens;gardiennes;Guards   _DutchM;gardiens_DutchF
+;Guitar players   ;Guitar players   ;Guitar players   ;guitaristes;guitaristes;Guitar players   _DutchM;guitaristes_DutchF
+;Gymnasts   ;Gymnasts   ;Gymnasts   ;gymnastes;gymnastes;Gymnasts   _DutchM;gymnastes_DutchF
+;Gynaecologists   ;Gynaecologists   ;Gynaecologists   ;gynécologues;gynécologues;Gynaecologists   _DutchM;gynécologues_DutchF
+;Hackers;Hackers;Hackers;hackers;hackers;Hackers_DutchM;hackers_DutchF
+;Hairdressers   ;Hairdressers   ;Hairdressers   ;coiffeurs;coiffeuses;Hairdressers   _DutchM;coiffeurs_DutchF
+;Head nurses;Head nurses;Head nurses;infirmiers chefs;infirmières cheffes;Head nurses_DutchM;infirmiers chefs_DutchF
+;Head physicians;Head physicians;Head physicians;médecins chefs;médecins cheffes;Head physicians_DutchM;médecins chefs_DutchF
+;Head teachers   ;Head teachers   ;Head teachers   ;directeurs d'école;directrices d'école;Head teachers   _DutchM;directeurs d'école_DutchF
+;Heads of department;Heads of department;Heads of department;chefs de département;cheffes de département;Heads of department_DutchM;chefs de département_DutchF
+;Heavy equipment operators   ;Heavy equipment operators   ;Heavy equipment operators   ;opérateurs d'équipement lourd;opératrices d'équipement lourd;Heavy equipment operators   _DutchM;opérateurs d'équipement lourd_DutchF
+;Historians   ;Historians   ;Historians   ;historiens;historiennes;Historians   _DutchM;historiens_DutchF
+;History professors   ;History professors   ;History professors   ;professeurs d'histoire;professeures d'histoire;History professors   _DutchM;professeurs d'histoire_DutchF
+;Hitchhikers   ;Hitchhikers   ;Hitchhikers   ;auto-stoppeurs;auto-stoppeuses;Hitchhikers   _DutchM;auto-stoppeurs_DutchF
+;Homeless persons   ;Homeless persons   ;Homeless persons   ;personnes sans-abris;personnes sans-abris;Homeless persons   _DutchM;personnes sans-abris_DutchF
+;Horse riders   ;Horse riders   ;Horse riders   ;cavaliers;cavalières;Horse riders   _DutchM;cavaliers_DutchF
+;Horse trainers   ;Horse trainers   ;Horse trainers   ;dresseurs de chevaux;dresseuses de chevaux;Horse trainers   _DutchM;dresseurs de chevaux_DutchF
+;Hospital orderlies   ;Hospital orderlies   ;Hospital orderlies   ;aides-soignants;aides-soignantes;Hospital orderlies   _DutchM;aides-soignants_DutchF
+;Hotel guests   ;Hotel guests   ;Hotel guests   ;clients d'hôtel;clientes d'hôtel;Hotel guests   _DutchM;clients d'hôtel_DutchF
+;Hotel managers   ;Hotel managers   ;Hotel managers   ;directeurs d'hôtel;directrices d'hôtel;Hotel managers   _DutchM;directeurs d'hôtel_DutchF
+;Housekeepers   ;Housekeepers   ;Housekeepers   ;gouvernants;gouvernantes;Housekeepers   _DutchM;gouvernants_DutchF
+;Human Resource Managers;Human Resource Managers;Human Resource Managers;Responsables des Ressources Humaines;responsables des Ressources Humaines;Human Resource Managers_DutchM;Responsables des Ressources Humaines_DutchF
+;Humanitarians   ;Humanitarians   ;Humanitarians   ;humanitaires;humanitaires;Humanitarians   _DutchM;humanitaires_DutchF
+;Humanities professors   ;Humanities professors   ;Humanities professors   ;professeurs en sciences humaines;professeures en sciences humaines;Humanities professors   _DutchM;professeurs en sciences humaines_DutchF
+;Hunters   ;Hunters   ;Hunters   ;chasseurs;chasseuses;Hunters   _DutchM;chasseurs_DutchF
+;Ice skaters   ;Ice skaters   ;Ice skaters   ;patineurs sur glace;patineuses sur glace;Ice skaters   _DutchM;patineurs sur glace_DutchF
+;Infant teachers   ;Infant teachers   ;Infant teachers   ;éducateurs en crèche;éducatrices en crèche;Infant teachers   _DutchM;éducateurs en crèche_DutchF
+;Influencers;Influencers;Influencers;influenceurs;influenceuses;Influencers_DutchM;influenceurs_DutchF
+;Informal caregivers;Informal caregivers;Informal caregivers;proches aidants;proches aidantes;Informal caregivers_DutchM;proches aidants_DutchF
+;Informants   ;Informants   ;Informants   ;informateurs;informatrices;Informants   _DutchM;informateurs_DutchF
+;Inmates   ;Inmates   ;Inmates   ;détenus;détenues;Inmates   _DutchM;détenus_DutchF
+;Innkeepers   ;Innkeepers   ;Innkeepers   ;aubergistes;aubergistes;Innkeepers   _DutchM;aubergistes_DutchF
+;Instagrammers;Instagrammers;Instagrammers;instagrammeurs;instagrammeuses;Instagrammers_DutchM;instagrammeurs_DutchF
+;Interior decorators   ;Interior decorators   ;Interior decorators   ;décorateurs d'intérieur;décoratrices d'intérieur;Interior decorators   _DutchM;décorateurs d'intérieur_DutchF
+;Interpreters   ;Interpreters   ;Interpreters   ;interprètes;interprètes;Interpreters   _DutchM;interprètes_DutchF
+;Inventors   ;Inventors   ;Inventors   ;inventeurs;inventrices;Inventors   _DutchM;inventeurs_DutchF
+;IT consultants   ;IT consultants   ;IT consultants   ;consultants informatiques;consultantes informatiques;IT consultants   _DutchM;consultants informatiques_DutchF
+;Janitors   ;Janitors   ;Janitors   ;concierges;concierges;Janitors   _DutchM;concierges_DutchF
+;Jewelers   ;Jewelers   ;Jewelers   ;bijoutiers;bijoutières;Jewelers   _DutchM;bijoutiers_DutchF
+;Job seekers   ;Job seekers   ;Job seekers   ;chercheurs d'emploi;chercheuses d'emploi;Job seekers   _DutchM;chercheurs d'emploi_DutchF
+;Joggers   ;Joggers   ;Joggers   ;joggeurs;joggeuses;Joggers   _DutchM;joggeurs_DutchF
+;Journalists   ;Journalists   ;Journalists   ;journalistes;journalistes;Journalists   _DutchM;journalistes_DutchF
+;Judges   ;Judges   ;Judges   ;juges;juges;Judges   _DutchM;juges_DutchF
+;Jugglers   ;Jugglers   ;Jugglers   ;jongleurs;jongleuses;Jugglers   _DutchM;jongleurs_DutchF
+;Jurors   ;Jurors   ;Jurors   ;jurés;jurées;Jurors   _DutchM;jurés_DutchF
+;Killers   ;Killers   ;Killers   ;tueurs;tueuses;Killers   _DutchM;tueurs_DutchF
+;Kindergarten teachers   ;Kindergarten teachers   ;Kindergarten teachers   ;enseignants à l'école enfantine;enseignantes à l'école enfantine;Kindergarten teachers   _DutchM;enseignants à l'école enfantine_DutchF
+;Lab technicians   ;Lab technicians   ;Lab technicians   ;techniciens de laboratoire;techniciennes de laboratoire;Lab technicians   _DutchM;techniciens de laboratoire_DutchF
+;Landscape gardeners   ;Landscape gardeners   ;Landscape gardeners   ;paysagistes;paysagistes;Landscape gardeners   _DutchM;paysagistes_DutchF
+;Law clerks   ;Law clerks   ;Law clerks   ;greffiers;greffières;Law clerks   _DutchM;greffiers_DutchF
+;Law professors   ;Law professors   ;Law professors   ;professeurs de droit;professeures de droit;Law professors   _DutchM;professeurs de droit_DutchF
+;Lawyers   ;Lawyers   ;Lawyers   ;avocats;avocates;Lawyers   _DutchM;avocats_DutchF
+;Leaders   ;Leaders   ;Leaders   ;leaders;leaders;Leaders   _DutchM;leaders_DutchF
+;Librarians   ;Librarians   ;Librarians   ;bibliothécaires;bibliothécaires;Librarians   _DutchM;bibliothécaires_DutchF
+;Lieutenants   ;Lieutenants   ;Lieutenants   ;lieutenants;lieutenantes;Lieutenants   _DutchM;lieutenants_DutchF
+;Life coaches;Life coaches;Life coaches;coachs de vie;coachs de vie;Life coaches_DutchM;coachs de vie_DutchF
+;Lifeguards   ;Lifeguards   ;Lifeguards   ;maîtres-nageurs;maîtresses-nageuses;Lifeguards   _DutchM;maîtres-nageurs_DutchF
+;Lighthouse keepers   ;Lighthouse keepers   ;Lighthouse keepers   ;gardiens de phare;gardiennes de phare;Lighthouse keepers   _DutchM;gardiens de phare_DutchF
+;Lodgers   ;Lodgers   ;Lodgers   ;locataires;locataires;Lodgers   _DutchM;locataires_DutchF
+;Lorry drivers   ;Lorry drivers   ;Lorry drivers   ;chauffeurs poids lourds;chauffeuses poids lourds;Lorry drivers   _DutchM;chauffeurs poids lourds_DutchF
+;Magician’s assistants   ;Magician’s assistants   ;Magician’s assistants   ;magiciens;magiciennes;Magician’s assistants   _DutchM;magiciens_DutchF
+;Magicians   ;Magicians   ;Magicians   ;assistants de magiciens;assistantes de magiciens;Magicians   _DutchM;assistants de magiciens_DutchF
+;Make up artists   ;Make up artists   ;Make up artists   ;maquilleurs;maquilleuses;Make up artists   _DutchM;maquilleurs_DutchF
+;Managers   ;Managers   ;Managers   ;managers;managers;Managers   _DutchM;managers_DutchF
+;Manicurists   ;Manicurists   ;Manicurists   ;manucures;manucures;Manicurists   _DutchM;manucures_DutchF
+;Market Researchers;Market Researchers;Market Researchers;spécialistes d'étude de marché;spécialistes d'étude de marché;Market Researchers_DutchM;spécialistes d'étude de marché_DutchF
+;Mathematicians   ;Mathematicians   ;Mathematicians   ;mathématiciens;mathématiciennes;Mathematicians   _DutchM;mathématiciens_DutchF
+;Mayors   ;Mayors   ;Mayors   ;maires;maires;Mayors   _DutchM;maires_DutchF
+;Mechanics   ;Mechanics   ;Mechanics   ;mécaniciens;mécaniciennes;Mechanics   _DutchM;mécaniciens_DutchF
+;Medical doctors   ;Medical doctors   ;Medical doctors   ;docteurs;docteures;Medical doctors   _DutchM;docteurs_DutchF
+;Members of parliament   ;Members of parliament   ;Members of parliament   ;députés;députées;Members of parliament   _DutchM;députés_DutchF
+;Members of the armed forces    ;Members of the armed forces    ;Members of the armed forces    ;militaires;militaires;Members of the armed forces    _DutchM;militaires_DutchF
+;Metallurgists   ;Metallurgists   ;Metallurgists   ;métallurgistes;métallurgistes;Metallurgists   _DutchM;métallurgistes_DutchF
+;Meteorologists   ;Meteorologists   ;Meteorologists   ;météorologues;météorologues;Meteorologists   _DutchM;météorologues_DutchF
+;Millionaires   ;Millionaires   ;Millionaires   ;millionnaires;millionnaires;Millionaires   _DutchM;millionnaires_DutchF
+;Miners   ;Miners   ;Miners   ;mineurs de fond;mineuses de fond;Miners   _DutchM;mineurs de fond_DutchF
+;Models   ;Models   ;Models   ;modèles;modèles;Models   _DutchM;modèles_DutchF
+;Mountain climbers   ;Mountain climbers   ;Mountain climbers   ;alpinistes;alpinistes;Mountain climbers   _DutchM;alpinistes_DutchF
+;Murderers   ;Murderers   ;Murderers   ;meurtriers;meurtrières;Murderers   _DutchM;meurtriers_DutchF
+;Musicians   ;Musicians   ;Musicians   ;musiciens;musiciennes;Musicians   _DutchM;musiciens_DutchF
+;Nail technicians;Nail technicians;Nail technicians;prothésistes ongulaires;prothésistes ongulaires;Nail technicians_DutchM;prothésistes ongulaires_DutchF
+;Nannies   ;Nannies   ;Nannies   ;nounous;nounous;Nannies   _DutchM;nounous_DutchF
+;Neighbours   ;Neighbours   ;Neighbours   ;voisins;voisines;Neighbours   _DutchM;voisins_DutchF
+;Neurologists   ;Neurologists   ;Neurologists   ;neurologues;neurologues;Neurologists   _DutchM;neurologues_DutchF
+;Neurosurgeons   ;Neurosurgeons   ;Neurosurgeons   ;neurochirurgiens;neurochirurgiennes;Neurosurgeons   _DutchM;neurochirurgiens_DutchF
+;News readers   ;News readers   ;News readers   ;présentateurs du journal;présentatrices du journal;News readers   _DutchM;présentateurs du journal_DutchF
+;Novelists   ;Novelists   ;Novelists   ;romanciers;romancières;Novelists   _DutchM;romanciers_DutchF
+;Nurses   ;Nurses   ;Nurses   ;infirmiers;infirmières;Nurses   _DutchM;infirmiers_DutchF
+;Nutritionists   ;Nutritionists   ;Nutritionists   ;nutritionnistes;nutritionnistes;Nutritionists   _DutchM;nutritionnistes_DutchF
+;Occupational therapists   ;Occupational therapists   ;Occupational therapists   ;ergothérapeutes;ergothérapeutes;Occupational therapists   _DutchM;ergothérapeutes_DutchF
+;Oceanographers   ;Oceanographers   ;Oceanographers   ;océanographes;océanographes;Oceanographers   _DutchM;océanographes_DutchF
+;Office workers   ;Office workers   ;Office workers   ;employés de bureau;employées de bureau;Office workers   _DutchM;employés de bureau_DutchF
+;Orchestra conductors   ;Orchestra conductors   ;Orchestra conductors   ;chefs d'orchestre;cheffes d'orchestre;Orchestra conductors   _DutchM;chefs d'orchestre_DutchF
+;Orthodontists   ;Orthodontists   ;Orthodontists   ;orthodontistes;orthodontistes;Orthodontists   _DutchM;orthodontistes_DutchF
+;Paid interns;Paid interns;Paid interns;stagiaires rémunérés;stagiaires rémunérées;Paid interns_DutchM;stagiaires rémunérés_DutchF
+;Parachutists   ;Parachutists   ;Parachutists   ;parachutistes;parachutistes;Parachutists   _DutchM;parachutistes_DutchF
+;Parents   ;Parents   ;Parents   ;parents;parents;Parents   _DutchM;parents_DutchF
+;Pastry chefs   ;Pastry chefs   ;Pastry chefs   ;pâtissiers;pâtissières;Pastry chefs   _DutchM;pâtissiers_DutchF
+;Patients   ;Patients   ;Patients   ;patients;patientes;Patients   _DutchM;patients_DutchF
+;Pawnbrokers   ;Pawnbrokers   ;Pawnbrokers   ;prêteurs sur gage;prêteuses sur gage;Pawnbrokers   _DutchM;prêteurs sur gage_DutchF
+;Pedestrians   ;Pedestrians   ;Pedestrians   ;piétons;piétonnes;Pedestrians   _DutchM;piétons_DutchF
+;Pediatricians   ;Pediatricians   ;Pediatricians   ;pédiatres;pédiatres;Pediatricians   _DutchM;pédiatres_DutchF
+;Pensioners   ;Pensioners   ;Pensioners   ;retraités;retraitées;Pensioners   _DutchM;retraités_DutchF
+;Personal trainers   ;Personal trainers   ;Personal trainers   ;coachs personnels;coachs personnelles;Personal trainers   _DutchM;coachs personnels_DutchF
+;Persons   ;Persons   ;Persons   ;personnes;personnes;Persons   _DutchM;personnes_DutchF
+;Pharmacists   ;Pharmacists   ;Pharmacists   ;pharmaciens;pharmaciennes;Pharmacists   _DutchM;pharmaciens_DutchF
+;Philanthropists   ;Philanthropists   ;Philanthropists   ;philanthropes;philanthropes;Philanthropists   _DutchM;philanthropes_DutchF
+;Photographers   ;Photographers   ;Photographers   ;photographes;photographes;Photographers   _DutchM;photographes_DutchF
+;Physicians   ;Physicians   ;Physicians   ;médecins;médecins;Physicians   _DutchM;médecins_DutchF
+;Physicists   ;Physicists   ;Physicists   ;physiciens;physiciennes;Physicists   _DutchM;physiciens_DutchF
+;Physics students   ;Physics students   ;Physics students   ;étudiants en physique;étudiantes en physique;Physics students   _DutchM;étudiants en physique_DutchF
+;Physiotherapists   ;Physiotherapists   ;Physiotherapists   ;physiothérapeutes;physiothérapeutes;Physiotherapists   _DutchM;physiothérapeutes_DutchF
+;Piano players   ;Piano players   ;Piano players   ;pianistes;pianistes;Piano players   _DutchM;pianistes_DutchF
+;Pilots   ;Pilots   ;Pilots   ;pilotes;pilotes;Pilots   _DutchM;pilotes_DutchF
+;Playgroup leaders   ;Playgroup leaders   ;Playgroup leaders   ;responsables de garderie;responsables de garderie;Playgroup leaders   _DutchM;responsables de garderie_DutchF
+;Plumbers   ;Plumbers   ;Plumbers   ;plombiers;plombières;Plumbers   _DutchM;plombiers_DutchF
+;Podcast hosts;Podcast hosts;Podcast hosts;animateurs de podcast;animatrices de podcast;Podcast hosts_DutchM;animateurs de podcast_DutchF
+;Poets   ;Poets   ;Poets   ;poètes;poètes;Poets   _DutchM;poètes_DutchF
+;Police Inspectors   ;Police Inspectors   ;Police Inspectors   ;inspecteurs de police;inspectrices de police;Police Inspectors   _DutchM;inspecteurs de police_DutchF
+;Police officers   ;Police officers   ;Police officers   ;policiers;policières;Police officers   _DutchM;policiers_DutchF
+;Police sergeants   ;Police sergeants   ;Police sergeants   ;sergents de police;sergentes de police;Police sergeants   _DutchM;sergents de police_DutchF
+;Political activists   ;Political activists   ;Political activists   ;militants politiques;militantes politiques;Political activists   _DutchM;militants politiques_DutchF
+;Politicians   ;Politicians   ;Politicians   ;politiciens;politiciennes;Politicians   _DutchM;politiciens_DutchF
+;Postal workers   ;Postal workers   ;Postal workers   ;employés des postes;employées des postes;Postal workers   _DutchM;employés des postes_DutchF
+;Presidents;Presidents;Presidents;présidents (pays);présidentes (pays);Presidents_DutchM;présidents (pays)_DutchF
+;Priests   ;Priests   ;Priests   ;prêtres;prêtresses;Priests   _DutchM;prêtres_DutchF
+;Primary school teachers   ;Primary school teachers   ;Primary school teachers   ;enseignants d'école primaire;enseignantes d'école primaire;Primary school teachers   _DutchM;enseignants d'école primaire_DutchF
+;Prison guards   ;Prison guards   ;Prison guards   ;gardiens de prison;gardiennes de prison;Prison guards   _DutchM;gardiens de prison_DutchF
+;Private detectives   ;Private detectives   ;Private detectives   ;détectives privés;détectives privées;Private detectives   _DutchM;détectives privés_DutchF
+;Probation officers   ;Probation officers   ;Probation officers   ;agents de probation;agentes de probation;Probation officers   _DutchM;agents de probation_DutchF
+;Professional athletes   ;Professional athletes   ;Professional athletes   ;athlètes professionnels;athlètes professionnelles;Professional athletes   _DutchM;athlètes professionnels_DutchF
+;Professors   ;Professors   ;Professors   ;professeurs;professeures;Professors   _DutchM;professeurs_DutchF
+;Proofreaders   ;Proofreaders   ;Proofreaders   ;relecteurs;relectrices;Proofreaders   _DutchM;relecteurs_DutchF
+;Prostitutes   ;Prostitutes   ;Prostitutes   ;prostitués;prostituées;Prostitutes   _DutchM;prostitués_DutchF
+;Protestors   ;Protestors   ;Protestors   ;manifestants;manifestantes;Protestors   _DutchM;manifestants_DutchF
+;Psychiatrists   ;Psychiatrists   ;Psychiatrists   ;psychiatres;psychiatres;Psychiatrists   _DutchM;psychiatres_DutchF
+;Psychology students   ;Psychology students   ;Psychology students   ;étudiants en psychologie;étudiantes en psychologie;Psychology students   _DutchM;étudiants en psychologie_DutchF
+;Public Relations Officers;Public Relations Officers;Public Relations Officers;chargés de relations publiques;chargées de relations publiques;Public Relations Officers_DutchM;chargés de relations publiques_DutchF
+;Publishers   ;Publishers   ;Publishers   ;éditeurs;éditrices;Publishers   _DutchM;éditeurs_DutchF
+;Racing car drivers   ;Racing car drivers   ;Racing car drivers   ;pilotes automobile;pilotes automobile;Racing car drivers   _DutchM;pilotes automobile_DutchF
+;Radio announcers   ;Radio announcers   ;Radio announcers   ;animateurs radio;animatrices radio;Radio announcers   _DutchM;animateurs radio_DutchF
+;Radio technicians   ;Radio technicians   ;Radio technicians   ;techniciens radio;techniciennes radio;Radio technicians   _DutchM;techniciens radio_DutchF
+;Rape victims   ;Rape victims   ;Rape victims   ;victimes de viol;victimes de viol;Rape victims   _DutchM;victimes de viol_DutchF
+;Rapists   ;Rapists   ;Rapists   ;violeurs;violeuses;Rapists   _DutchM;violeurs_DutchF
+;Receptionists   ;Receptionists   ;Receptionists   ;réceptionnistes;réceptionnistes;Receptionists   _DutchM;réceptionnistes_DutchF
+;Relatives   ;Relatives   ;Relatives   ;membres de la famille;membres de la famille;Relatives   _DutchM;membres de la famille_DutchF
+;Remote workers;Remote workers;Remote workers;télétravailleurs;télétravailleuses;Remote workers_DutchM;télétravailleurs_DutchF
+;Reporters   ;Reporters   ;Reporters   ;reporters;reporters;Reporters   _DutchM;reporters_DutchF
+;Representatives;Representatives;Representatives;représentants;représentantes;Representatives_DutchM;représentants_DutchF
+;Rescue workers   ;Rescue workers   ;Rescue workers   ;secouristes;secouristes;Rescue workers   _DutchM;secouristes_DutchF
+;Research scientists   ;Research scientists   ;Research scientists   ;chercheurs scientifiques;chercheuses scientifiques;Research scientists   _DutchM;chercheurs scientifiques_DutchF
+;Riding instructors;Riding instructors;Riding instructors;moniteurs d'équitation;monitrices d'équitation;Riding instructors_DutchM;moniteurs d'équitation_DutchF
+;Road Crew;Road Crew;Road Crew;roadie;roadie;Road Crew_DutchM;roadie_DutchF
+;Road workers   ;Road workers   ;Road workers   ;agent d'exploitation de la voirie;agente d'exploitation de la voirie;Road workers   _DutchM;agent d'exploitation de la voirie_DutchF
+;Role players;Role players;Role players;joueurs de jeu de rôle;joueuses de jeu de rôle;Role players_DutchM;joueurs de jeu de rôle_DutchF
+;Romantic novelists   ;Romantic novelists   ;Romantic novelists   ;écrivains de romans romantiques;écrivaines de romans romantiques;Romantic novelists   _DutchM;écrivains de romans romantiques_DutchF
+;Roofers   ;Roofers   ;Roofers   ;couvreurs;couvreuses;Roofers   _DutchM;couvreurs_DutchF
+;Rubbish collectors   ;Rubbish collectors   ;Rubbish collectors   ;éboueurs;éboueuses;Rubbish collectors   _DutchM;éboueurs_DutchF
+;Runners   ;Runners   ;Runners   ;coureurs;coureuses;Runners   _DutchM;coureurs_DutchF
+;Sailors   ;Sailors   ;Sailors   ;marins;marines;Sailors   _DutchM;marins_DutchF
+;Sales assistants   ;Sales assistants   ;Sales assistants   ;vendeurs;vendeuses;Sales assistants   _DutchM;vendeurs_DutchF
+;Salespersons   ;Salespersons   ;Salespersons   ;commerciaux;commerciales;Salespersons   _DutchM;commerciaux_DutchF
+;Schoolchildren      ;Schoolchildren      ;Schoolchildren      ;écoliers;écolières;Schoolchildren      _DutchM;écoliers_DutchF
+;Screenwriters   ;Screenwriters   ;Screenwriters   ;scénaristes;scénaristes;Screenwriters   _DutchM;scénaristes_DutchF
+;Scuba divers   ;Scuba divers   ;Scuba divers   ;plongeurs (sous-marin);plongeuses (sous-marin);Scuba divers   _DutchM;plongeurs (sous-marin)_DutchF
+;Sculptors   ;Sculptors   ;Sculptors   ;sculpteurs;sculptrices;Sculptors   _DutchM;sculpteurs_DutchF
+;Secretaries   ;Secretaries   ;Secretaries   ;secrétaires;secrétaires;Secretaries   _DutchM;secrétaires_DutchF
+;Security guards;Security guards;Security guards;agents de sécurité;agentes de sécurité;Security guards_DutchM;agents de sécurité_DutchF
+;Self employed;Self employed;Self employed;travailleurs indépendants;travailleuses indépendantes;Self employed_DutchM;travailleurs indépendants_DutchF
+;Serial killers   ;Serial killers   ;Serial killers   ;tueurs en série;tueuses en série;Serial killers   _DutchM;tueurs en série_DutchF
+;Sex workers;Sex workers;Sex workers;travailleurs du sexe;travailleuses du sexe;Sex workers_DutchM;travailleurs du sexe_DutchF
+;Sexual abusers;Sexual abusers;Sexual abusers;agresseurs sexuels;agresseuses sexuelles;Sexual abusers_DutchM;agresseurs sexuels_DutchF
+;Shoemakers   ;Shoemakers   ;Shoemakers   ;cordonniers;cordonnières;Shoemakers   _DutchM;cordonniers_DutchF
+;Shoplifters   ;Shoplifters   ;Shoplifters   ;voleurs à l'étalage;voleuses à l'étalage;Shoplifters   _DutchM;voleurs à l'étalage_DutchF
+;Shoppers   ;Shoppers   ;Shoppers   ;personnes qui font du shopping;personnes qui font du shopping;Shoppers   _DutchM;personnes qui font du shopping_DutchF
+;Singers   ;Singers   ;Singers   ;chanteurs;chanteuses;Singers   _DutchM;chanteurs_DutchF
+;Single parents   ;Single parents   ;Single parents   ;parents isolés;parents isolées;Single parents   _DutchM;parents isolés_DutchF
+;Skiers   ;Skiers   ;Skiers   ;skieurs;skieuses;Skiers   _DutchM;skieurs_DutchF
+;Smugglers   ;Smugglers   ;Smugglers   ;contrebandiers;contrebandières;Smugglers   _DutchM;contrebandiers_DutchF
+;Snooker players   ;Snooker players   ;Snooker players   ;joueurs de billard;joueuses de billard;Snooker players   _DutchM;joueurs de billard_DutchF
+;Social workers   ;Social workers   ;Social workers   ;assistants sociaux;assistantes sociales;Social workers   _DutchM;assistants sociaux_DutchF
+;Socialites   ;Socialites   ;Socialites   ;mondains;mondaines;Socialites   _DutchM;mondains_DutchF
+;Soldiers   ;Soldiers   ;Soldiers   ;soldats;soldates;Soldiers   _DutchM;soldats_DutchF
+;Sommeliers;Sommeliers;Sommeliers;sommeliers;sommelières;Sommeliers_DutchM;sommeliers_DutchF
+;Sound engineers   ;Sound engineers   ;Sound engineers   ;ingénieurs du son;ingénieures du son;Sound engineers   _DutchM;ingénieurs du son_DutchF
+;Sous Chef;Sous Chef;Sous Chef;sous-chefs;sous-cheffes;Sous Chef_DutchM;sous-chefs_DutchF
+;Spectators   ;Spectators   ;Spectators   ;spectateurs;spectatrices;Spectators   _DutchM;spectateurs_DutchF
+;Speech therapists   ;Speech therapists   ;Speech therapists   ;logopédistes;logopédistes;Speech therapists   _DutchM;logopédistes_DutchF
+;Spies   ;Spies   ;Spies   ;espions;espionne;Spies   _DutchM;espions_DutchF
+;Sports coaches   ;Sports coaches   ;Sports coaches   ;coachs sportifs;coachs sportives;Sports coaches   _DutchM;coachs sportifs_DutchF
+;Stalkers;Stalkers;Stalkers;harceleurs;harceleuses;Stalkers_DutchM;harceleurs_DutchF
+;Statisticians   ;Statisticians   ;Statisticians   ;statisticiens;statisticiennes;Statisticians   _DutchM;statisticiens_DutchF
+;Stay at home parents;Stay at home parents;Stay at home parents;Parents au foyer;parents au foyer;Stay at home parents_DutchM;Parents au foyer_DutchF
+;Stenographers;Stenographers;Stenographers;sténographes;sténographes;Stenographers_DutchM;sténographes_DutchF
+;Stockbrokers   ;Stockbrokers   ;Stockbrokers   ;agents de change;agentes de change;Stockbrokers   _DutchM;agents de change_DutchF
+;Strippers   ;Strippers   ;Strippers   ;strip-teaseurs;strip-teaseuses;Strippers   _DutchM;strip-teaseurs_DutchF
+;Structural engineers   ;Structural engineers   ;Structural engineers   ;ingénieurs structurels;ingénieures structurelles;Structural engineers   _DutchM;ingénieurs structurels_DutchF
+;Students   ;Students   ;Students   ;étudiants;étudiantes;Students   _DutchM;étudiants_DutchF
+;Supervisors   ;Supervisors   ;Supervisors   ;superviseurs;superviseuses;Supervisors   _DutchM;superviseurs_DutchF
+;Surfers   ;Surfers   ;Surfers   ;surfeurs;surfeuses;Surfers   _DutchM;surfeurs_DutchF
+;Surgeons   ;Surgeons   ;Surgeons   ;chirurgiens;chirurgiennes;Surgeons   _DutchM;chirurgiens_DutchF
+;Suspects   ;Suspects   ;Suspects   ;suspects;suspectes;Suspects   _DutchM;suspects_DutchF
+;Swimmers   ;Swimmers   ;Swimmers   ;nageurs;nageuses;Swimmers   _DutchM;nageurs_DutchF
+;Synchronized swimmers   ;Synchronized swimmers   ;Synchronized swimmers   ;nageurs synchronisés;nageuses synchronisées;Synchronized swimmers   _DutchM;nageurs synchronisés_DutchF
+;Systems analysts   ;Systems analysts   ;Systems analysts   ;analystes de systèmes;analystes de systèmes;Systems analysts   _DutchM;analystes de systèmes_DutchF
+;Tailors   ;Tailors   ;Tailors   ;tailleurs;tailleuses;Tailors   _DutchM;tailleurs_DutchF
+;Tattoo artists;Tattoo artists;Tattoo artists;tatoueurs;tatoueuses;Tattoo artists_DutchM;tatoueurs_DutchF
+;Tax advisors   ;Tax advisors   ;Tax advisors   ;conseillers fiscaux;conseillères fiscales;Tax advisors   _DutchM;conseillers fiscaux_DutchF
+;Taxi drivers   ;Taxi drivers   ;Taxi drivers   ;chauffeurs de taxi;chauffeuses de taxi;Taxi drivers   _DutchM;chauffeurs de taxi_DutchF
+;Technicians   ;Technicians   ;Technicians   ;techniciens;techniciennes;Technicians   _DutchM;techniciens_DutchF
+;Teenagers      ;Teenagers      ;Teenagers      ;adolescents;adolescentes;Teenagers      _DutchM;adolescents_DutchF
+;Temp workers;Temp workers;Temp workers;travailleurs temporaires;travailleuses temporaires;Temp workers_DutchM;travailleurs temporaires_DutchF
+;Tennis players   ;Tennis players   ;Tennis players   ;joueurs de tennis;joueuses de tennis;Tennis players   _DutchM;joueurs de tennis_DutchF
+;Terrorists   ;Terrorists   ;Terrorists   ;terroristes;terroristes;Terrorists   _DutchM;terroristes_DutchF
+;Theatre directors   ;Theatre directors   ;Theatre directors   ;metteurs en scène;metteuses en scène;Theatre directors   _DutchM;metteurs en scène_DutchF
+;Therapists;Therapists;Therapists;thérapeutes;thérapeutes;Therapists_DutchM;thérapeutes_DutchF
+;Thieves   ;Thieves   ;Thieves   ;voleurs;voleuses;Thieves   _DutchM;voleurs_DutchF
+;Ticket inspectors   ;Ticket inspectors   ;Ticket inspectors   ;contrôleurs de billets;contrôleuses de billets;Ticket inspectors   _DutchM;contrôleurs de billets_DutchF
+;Tiktokers;Tiktokers;Tiktokers;tiktokeurs;tiktokeuses;Tiktokers_DutchM;tiktokeurs_DutchF
+;Toddlers      ;Toddlers      ;Toddlers      ;enfants en bas âge;enfants en bas âge;Toddlers      _DutchM;enfants en bas âge_DutchF
+;Tour guides   ;Tour guides   ;Tour guides   ;guides touristiques;guides touristiques;Tour guides   _DutchM;guides touristiques_DutchF
+;Trade unionists   ;Trade unionists   ;Trade unionists   ;syndicalistes;syndicalistes;Trade unionists   _DutchM;syndicalistes_DutchF
+;Traffic engineers   ;Traffic engineers   ;Traffic engineers   ;ingénieurs en trafic;ingénieures en trafic;Traffic engineers   _DutchM;ingénieurs en trafic_DutchF
+;Train conductors;Train conductors;Train conductors;contrôleurs de train;contrôleuses de train;Train conductors_DutchM;contrôleurs de train_DutchF
+;Translators   ;Translators   ;Translators   ;traducteurs;traductrices;Translators   _DutchM;traducteurs_DutchF
+;Travel agents   ;Travel agents   ;Travel agents   ;agents de voyage;agentes de voyage;Travel agents   _DutchM;agents de voyage_DutchF
+;Trumpet players   ;Trumpet players   ;Trumpet players   ;trompettistes;trompettistes;Trumpet players   _DutchM;trompettistes_DutchF
+;Tuba players   ;Tuba players   ;Tuba players   ;tubistes;tubistes;Tuba players   _DutchM;tubistes_DutchF
+;TV show hosts;TV show hosts;TV show hosts;animateurs d'émission télévisées;animatrices d'émission télévisées;TV show hosts_DutchM;animateurs d'émission télévisées_DutchF
+;Tyre fitters   ;Tyre fitters   ;Tyre fitters   ;monteurs de pneus;monteuses de pneus;Tyre fitters   _DutchM;monteurs de pneus_DutchF
+;Uber drivers;Uber drivers;Uber drivers;chauffeurs uber;chauffeuses uber;Uber drivers_DutchM;chauffeurs uber_DutchF
+;Unemployed;Unemployed;Unemployed;chômeurs;chômeuses;Unemployed_DutchM;chômeurs_DutchF
+;Unpaid interns;Unpaid interns;Unpaid interns;stagiaires non-rémunérés;stagiaires non-rémunérées;Unpaid interns_DutchM;stagiaires non-rémunérés_DutchF
+;Vets   ;Vets   ;Vets   ;vétérinaires;vétérinaires;Vets   _DutchM;vétérinaires_DutchF
+;Vice chancellors;Vice chancellors;Vice chancellors;vice-chanceliers;vice-chancelières;Vice chancellors_DutchM;vice-chanceliers_DutchF
+;Victims   ;Victims   ;Victims   ;victimes;victimes;Victims   _DutchM;victimes_DutchF
+;Violinists   ;Violinists   ;Violinists   ;violonistes;violonistes;Violinists   _DutchM;violonistes_DutchF
+;Waiters   ;Waiters   ;Waiters   ;serveurs;serveuses;Waiters   _DutchM;serveurs_DutchF
+;Wardens   ;Wardens   ;Wardens   ;directeurs de prison;directrices de prison;Wardens   _DutchM;directeurs de prison_DutchF
+;Weavers   ;Weavers   ;Weavers   ;tisserands;tisserandes;Weavers   _DutchM;tisserands_DutchF
+;Web designers;Web designers;Web designers;webdesigners;webdesigners;Web designers_DutchM;webdesigners_DutchF
+;Wedding planners   ;Wedding planners   ;Wedding planners   ;organisateurs de mariages;organisatrices de mariages;Wedding planners   _DutchM;organisateurs de mariages_DutchF
+;Weight lifters   ;Weight lifters   ;Weight lifters   ;haltérophiles;haltérophiles;Weight lifters   _DutchM;haltérophiles_DutchF
+;Welders   ;Welders   ;Welders   ;soudeurs;soudeuses;Welders   _DutchM;soudeurs_DutchF
+;Whistleblowers;Whistleblowers;Whistleblowers;lanceurs d'alerte;lanceuses d'alerte;Whistleblowers_DutchM;lanceurs d'alerte_DutchF
+;Wine connoisseurs   ;Wine connoisseurs   ;Wine connoisseurs   ;amateurs de vin;amatrices de vin;Wine connoisseurs   _DutchM;amateurs de vin_DutchF
+;Wood carvers   ;Wood carvers   ;Wood carvers   ;sculpteurs sur bois;sculptrices sur bois;Wood carvers   _DutchM;sculpteurs sur bois_DutchF
+;Wood workers   ;Wood workers   ;Wood workers   ;menuisiers;menuisières;Wood workers   _DutchM;menuisiers_DutchF
+;Workers   ;Workers   ;Workers   ;travailleurs;travailleuses;Workers   _DutchM;travailleurs_DutchF
+;Wrestlers   ;Wrestlers   ;Wrestlers   ;lutteurs;lutteuses;Wrestlers   _DutchM;lutteurs_DutchF
+;Writers   ;Writers   ;Writers   ;écrivains;écrivaines;Writers   _DutchM;écrivains_DutchF
+;X-ray technicians   ;X-ray technicians   ;X-ray technicians   ;techniciens radiologue;techniciennes radiologues;X-ray technicians   _DutchM;techniciens radiologue_DutchF
+;Yoga instructors;Yoga instructors;Yoga instructors;professeurs de yoga;professeures de yoga;Yoga instructors_DutchM;professeurs de yoga_DutchF
+;Youngsters      ;Youngsters      ;Youngsters      ;jeunes;jeunes;Youngsters      _DutchM;jeunes_DutchF
+;Youtubers;Youtubers;Youtubers;youtubeurs;youtubeuses;Youtubers_DutchM;youtubeurs_DutchF
+;Zoologists   ;Zoologists   ;Zoologists   ;zoologistes;zoologistes;Zoologists   _DutchM;zoologistes_DutchF

@@ -35,7 +35,7 @@ jsPsych.data.addProperties({
     orderMF: order
 });
 
-var stimuli_select = jsPsych.randomization.sampleWithoutReplacement(stimuli, 1);
+var stimuli_select = jsPsych.randomization.sampleWithoutReplacement(stimuli, 5);
 
 
 if (order===1) {
